@@ -1,0 +1,435 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel><title>Security Now Archive (MP3)</title>
+<link>http://twit.tv/sn</link>
+<generator>Security Now Archive Generator - http://bitbucket.org/JanKanis/snarchive</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+<pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+<category>Technology</category>
+<category>Security</category>
+<image>
+<title>Security Now Archive (MP3)</title>
+<url>http://twit.cachefly.net/coverart/sn/sn144audio.jpg</url>
+<link>http://twit.tv/sn</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</itunes:subtitle>
+<itunes:summary>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</itunes:summary>
+<description>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</description>
+<itunes:keywords>
+Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:block>no</itunes:block>
+<itunes:image href="http://twit.cachefly.net/coverart/sn/sn1400audio.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+<itunes:category text="Software How-To"/>
+</itunes:category>
+<item>
+<title>SN 20: A SERIOUS new Windows vulnerability — and Listener Q&amp;A</title>
+<pubDate>29 Dec 2005</pubDate>
+<comments>http://twit.tv/sn/20</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>On December 28th a serious new Windows vulnerability has appeared and been immediately exploited by a growing number of malicious web sites to install malware. Many worse viruses and worms are expected soon. We start off discussing this and our show notes provides a quick necesary workaround until Microsoft provides a patch. Then we spend the next 45 minutes answering and discussing interesting listener questions.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0020/sn0020.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0020/sn0020.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0020/sn0020.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0020/sn0020.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 19: VPNs Three: Hamachi, iPig, and OpenVPN</title>
+<pubDate>22 Dec 2005</pubDate>
+<comments>http://twit.tv/sn/19</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing "iPig," a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the "Swiss army knife" of VPN solutions.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0019/sn0019.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0019/sn0019.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0019/sn0019.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0019/sn0019.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 18: "Hamachi" Rocks!</title>
+<pubDate>15 Dec 2005</pubDate>
+<comments>http://twit.tv/sn/18</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Leo and I discuss and describe the brand new, ready to emerge from a its long development beta phase, ultra-secure, lightweight, high-performance, highly-polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as "Hamachi". After two solid weeks of testing and intense dialog with Hamachi's lead developer and designer, I have fully vetted the system's security architecture and have it running on many of my systems.  While I am travelling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don't miss this one!</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0018/sn0018.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:33:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0018/sn0018.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0018/sn0018.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0018/sn0018.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 17: PPTP and IPSec VPN Technology</title>
+<pubDate>08 Dec 2005</pubDate>
+<comments>http://twit.tv/sn/17</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>In our continuing exploration of VPN technology for protecting network users on networks they don't control, Leo and I discuss the oldest "original" VPN protocols: Industry standard IPSec, and Microsoft's own PPTP and L2TP/IPSec.  We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0017/sn0017.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:33:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0017/sn0017.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0017/sn0017.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0017/sn0017.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 16: Listener feedback Q&amp;A #1</title>
+<pubDate>01 Dec 2005</pubDate>
+<comments>http://twit.tv/sn/16</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0016/sn0016.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:42:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0016/sn0016.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0016/sn0016.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0016/sn0016.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 15: VPN Secure Tunneling Solutions</title>
+<pubDate>24 Nov 2005</pubDate>
+<comments>http://twit.tv/sn/15</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used — such as at an open WiFi hotspot or when using a hotel's network. These solutions are not transparent and tend to be configuration intensive. They also require the use of a "server" of some sort at the user's home or office. This makes these approaches less suitable for casual users, but offers a solution for the more technically inclined road warriors.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0015/sn0015.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:43:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0015/sn0015.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0015/sn0015.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0015/sn0015.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 14: Virtual Private Networks (VPN): Theory</title>
+<pubDate>17 Nov 2005</pubDate>
+<comments>http://twit.tv/sn/14</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and clearing up some confusion over the crackability of WPA passphrases.  Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone who needs security while they're away from home.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0014/sn0014.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:27:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0014/sn0014.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0014/sn0014.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0014/sn0014.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 13: Unbreakable WiFi Security</title>
+<pubDate>10 Nov 2005</pubDate>
+<comments>http://twit.tv/sn/13</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I follow-up on last week's discussion of the Sony Rootkit debacle with the distressing news of "phoning home" (spyware) behavior from the Sony DRM software, and the rootkit's exploitation by a new malicious backdoor Trojan. We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0013/sn0013.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:35:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0013/sn0013.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0013/sn0013.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0013/sn0013.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 12: Sony's "Rootkit Technology" DRM (copy protection gone bad)</title>
+<pubDate>03 Nov 2005</pubDate>
+<comments>http://twit.tv/sn/12</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss details and consequences of Sony Corporation's alarming "Rootkit" DRM (digital rights management) copy protection scheme. This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation. It can not be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD "blue screen of death" PC crashes.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0012/sn0012.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:24:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0012/sn0012.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0012/sn0012.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0012/sn0012.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 11: Bad WiFi Security (WEP and MAC address filtering)</title>
+<pubDate>27 Oct 2005</pubDate>
+<comments>http://twit.tv/sn/11</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I answer some questions arising from last week's episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSID's for security, and the extremely poor security offered by the first-generation WEP encryption system.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0011/sn0011.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:38:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0011/sn0011.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0011/sn0011.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0011/sn0011.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 10: Open Wireless Access Points</title>
+<pubDate>20 Oct 2005</pubDate>
+<comments>http://twit.tv/sn/10</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0010/sn0010.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:28:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0010/sn0010.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0010/sn0010.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0010/sn0010.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 9: Rootkits</title>
+<pubDate>13 Oct 2005</pubDate>
+<comments>http://twit.tv/sn/9</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0009/sn0009.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:32:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0009/sn0009.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0009/sn0009.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0009/sn0009.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 8: Denial of Service (DoS) Attacks</title>
+<pubDate>06 Oct 2005</pubDate>
+<comments>http://twit.tv/sn/8</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0008/sn0008.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:24:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0008/sn0008.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0008/sn0008.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0008/sn0008.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 7: SPYaWAREness</title>
+<pubDate>29 Sep 2005</pubDate>
+<comments>http://twit.tv/sn/7</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0007/sn0007.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:36:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0007/sn0007.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0007/sn0007.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0007/sn0007.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 6: Mechanical &amp; Electromagnetic Information Leakage</title>
+<pubDate>22 Sep 2005</pubDate>
+<comments>http://twit.tv/sn/6</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0006/sn0006.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:18:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0006/sn0006.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0006/sn0006.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0006/sn0006.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 5: Personal Password Policy — Part 2</title>
+<pubDate>15 Sep 2005</pubDate>
+<comments>http://twit.tv/sn/5</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0005/sn0005.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:20:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0005/sn0005.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0005/sn0005.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0005/sn0005.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 4: Personal Password Policy</title>
+<pubDate>08 Sep 2005</pubDate>
+<comments>http://twit.tv/sn/4</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0004/sn0004.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:24:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0004/sn0004.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0004/sn0004.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0004/sn0004.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 3: NAT Routers as Firewalls</title>
+<pubDate>01 Sep 2005</pubDate>
+<comments>http://twit.tv/sn/3</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0003/sn0003.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:25:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0003/sn0003.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0003/sn0003.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0003/sn0003.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 2: " HoneyMonkeys "</title>
+<pubDate>25 Aug 2005</pubDate>
+<comments>http://twit.tv/sn/2</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0002/sn0002.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:25:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0002/sn0002.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0002/sn0002.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0002/sn0002.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 1: As the Worm Turns — the first Internet worms of 2005</title>
+<pubDate>19 Aug 2005</pubDate>
+<comments>http://twit.tv/sn/1</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>0:18:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0001/sn0001.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0001/sn0001.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0001/sn0001.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+
+</channel>
+</rss>

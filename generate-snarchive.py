@@ -18,26 +18,32 @@ Usage:
 To generate a shorter archive not going back to the beginning, edit the 'backto' year below.
 """
 
-backto = 2005
-output = 'snarchive.xml'
-
-
 import tzlocal, datetime
 import string
 import requests, bs4
 from xml.sax.saxutils import escape as esc
 
-
-now = datetime.datetime.now(tzlocal.get_localzone())
-nowfmt = now.strftime("%a, %d %b %Y %H:%M:%S %z")
-
-thisyear = now.year
-urls = ['https://www.grc.com/securitynow.htm']
-if backto:
-  urls += ('https://www.grc.com/sn/past/{}.htm'.format(year) for year in range(thisyear-1, backto-1, -1))
-
 template = string.Template(open('sn-template.xml').read())
 itemtemplate = string.Template(open('sn-item.xml').read())
+
+
+def get_urls(end_year, start_year = 2005):
+    now = datetime.datetime.now(tzlocal.get_localzone())
+
+    if not end_year:
+      end_year = now.year
+    
+    thisyear = end_year
+
+    urls = []
+    if now.year == end_year:
+        urls += ['https://www.grc.com/securitynow.htm']
+
+    if start_year:
+      urls += ('https://www.grc.com/sn/past/{}.htm'.format(year) for year in range(thisyear-1, start_year-1, -1))
+    
+    return urls
+
 
 
 def download_page(url):
@@ -115,7 +121,7 @@ def item_rss(links):
 
 
 
-def generate_rss(links):
+def generate_rss(links, output, year):
   header = True
   episodes = []
   for nr, episode_rss in item_rss(links):
@@ -126,6 +132,7 @@ def generate_rss(links):
     episodes.append(episode_rss)
 
   if episodes:
+    nowfmt = datetime.datetime(year, 1, 1, 0, 0, 0, 0, datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     out = open(output, 'w', encoding="utf-8")
     out.write(template.substitute(NOW=nowfmt, ITEMS=''.join(episodes)))
     print("\n\nCreated "+output)
@@ -134,4 +141,9 @@ def generate_rss(links):
     print("\nError: No episodes found!")
 
 
-generate_rss(urls)
+
+# generate_rss(urls)
+
+for year in range(20, 2025):
+    urls = get_urls(year+1, year)
+    generate_rss(urls, f"rss/{year}.xml", year)

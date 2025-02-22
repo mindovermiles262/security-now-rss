@@ -1,0 +1,1024 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel><title>Security Now Archive (MP3)</title>
+<link>http://twit.tv/sn</link>
+<generator>Security Now Archive Generator - http://bitbucket.org/JanKanis/snarchive</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+<category>Technology</category>
+<category>Security</category>
+<image>
+<title>Security Now Archive (MP3)</title>
+<url>http://twit.cachefly.net/coverart/sn/sn144audio.jpg</url>
+<link>http://twit.tv/sn</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</itunes:subtitle>
+<itunes:summary>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</itunes:summary>
+<description>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</description>
+<itunes:keywords>
+Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:block>no</itunes:block>
+<itunes:image href="http://twit.cachefly.net/coverart/sn/sn1400audio.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+<itunes:category text="Software How-To"/>
+</itunes:category>
+<item>
+<title>SN 851: Best of 2021</title>
+<pubDate>28 Dec 2021</pubDate>
+<comments>http://twit.tv/sn/851</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo Laporte walks through some of the highlights of the show and most impactful stories of 2021. Stories include: • SolarWinds Hack Detailed By Microsoft • Crispy Subtitles from Lay's • Remembering Dan Kaminsky • REvil Hacks Apple Supplier Quanta Computer • The “Doom” CAPTCHA • How Colonial Pipeline Was Breached • When John McAfee Called Steve Gibson • T-Mobile Subscribers: Do This Now • “Internet Anonymity” is an Oxymoron</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0851/sn0851.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:30:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0851/sn0851.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0851/sn0851.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0851/sn0851.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 850: It's a Log4j Christmas</title>
+<pubDate>21 Dec 2021</pubDate>
+<comments>http://twit.tv/sn/850</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>There was no way that a massively widespread vulnerability in Java with a CVSS score of 10.0 would be wrapped up in a week. So this week we'll look at the further consequences of the Log4j vulnerabilities, including the two additional updates the Apache group have since released. But before that we'll look at what will hopefully be Chrome's final zero-day patch of the year, Firefox's surprise refusal to take its users to Microsoft.com, and Mozilla's decision to protect its users from Windows 10 cloud-based clipboard sharing. We have a new and interesting means of increasing the power of fraudulent cell tower Stingray attacks, and a continuing threat from cross-radio WiFi-to-Bluetooth leakage. We'll touch on a sci-fi reminder and a SpinRite update, then dig into what's happened since last week on the Log4j front.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0850/sn0850.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0850/sn0850.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0850/sn0850.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0850/sn0850.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 849: Log4j &amp; Log4Shell</title>
+<pubDate>14 Dec 2021</pubDate>
+<comments>http://twit.tv/sn/849</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we will, of course, be discussing what's being called the worst Internet-wide security catastrophe in recent memory. Log4Shell is not like Spectre or Meltdown, which were academic theories. This is at the far other end of that spectrum. But first we're going to talk a bit about last week's massive Amazon network services outage and the unfortunate but probably inevitable abuse of Apple's AirTag ecosystem. I need to correct the record over my undeserved praise, last week, for Windows 11 and its loosening grip over its Edge browser association, and we need to warn all WordPress site admins about a new and serious set of threats. We have a single item of closing the loop feedback about today's main topic, a bit of Sci-Fi and a SpinRite update. Then, we'll roll up our sleeves and by the end of today's episode listening will understand exactly how, why and what happened with Log4j and Log4Shell.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0849/sn0849.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:31:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0849/sn0849.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0849/sn0849.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0849/sn0849.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 848: XSinator</title>
+<pubDate>7 Dec 2021</pubDate>
+<comments>http://twit.tv/sn/848</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Tavis Ormandy finds a bug in Mozilla's NSS signature verification. We look at the horrifying lack of security in smartwatches for children (smartwatches for children?!?), and at the next six VPN services to be banned in Russia. Microsoft softens the glue between Windows 11 and Edge, bad guys find a new way of slipping malware into our machines, a botnet uses the bitcoin blockchain for backup communications, and HP has 150 printer models in dire need of firmware updates. We touch on sci-fi and SpinRite, then we look at new research into an entirely new class of cross-site privacy breaches affecting every web browser including a test every user can run for themselves on their various browsers.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0848/sn0848.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:35:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0848/sn0848.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0848/sn0848.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0848/sn0848.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 847: Bogons Begone!</title>
+<pubDate>30 Nov 2021</pubDate>
+<comments>http://twit.tv/sn/847</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we'll note that the new Edge browser's Super Duper Secure Mode has been deployed and can be enabled by security-conscious users. We also have more than one third 37% of the world's smartphones vulnerable to audio monitoring and recording flaws in their MediaTek firmware. We have an important reminder about clicking links in email and wonder how that can still be a problem, and the entirely predictable evolution of a Windows zero-day vulnerability which is latent no longer. We have some interesting closing-the-loop feedback from our terrific listeners, and a sci-fi book update. Then we take another and much broader look at the recent efforts to clean up IPv4, but this time from the perspective of those working to do so.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0847/sn0847.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0847/sn0847.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0847/sn0847.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0847/sn0847.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 846: HTTP Request Smuggling</title>
+<pubDate>23 Nov 2021</pubDate>
+<comments>http://twit.tv/sn/846</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>We're going to start off this week by taking a careful look at a shocking proposal being made by the Internet's Engineering Task Force, the IETF. They're proposing a change to a fundamental and long-standing aspect of the Internet's routing which I think must be doomed to fail. So we'll spend a bit of time on this in case it might actually happen. Then Microsoft reveals some results from their network of honeypots, and we update on the progress, or lack of, toward more secure passwords. GoDaddy suffers another major intrusion, and just about every Netgear router really does now need to receive a critical update for the fifth time this year. This one is very worrisome.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0846/sn0846.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:42:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0846/sn0846.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0846/sn0846.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0846/sn0846.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 845: Blacksmith</title>
+<pubDate>16 Nov 2021</pubDate>
+<comments>http://twit.tv/sn/845</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at a critical 9.8-rated vulnerability affecting Palo Alto Network's widely deployed VPN/Firewall appliance, and at a welcome new micropatch from the 0patch guys, the nature of which leads me into a bit of philosophical musing about the Zen of coding. We're then rocketed back to reality by a review of last week's Patch Tuesday, looking at what it broke and happily what more it fixed, including hints that Christmas might finally be coming to printing by December. We have some more encouraging ransomware vs the law news, and we examine the question of how to make big money defrauding online advertisers. I'll then share some fun and interesting closing the loop feedback from our listeners, update on my SpinRite work, and then we're going to take a look at “Blacksmith” – the evolution of Rowhammer attacks on DRAM.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0845/sn0845.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:34:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0845/sn0845.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0845/sn0845.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0845/sn0845.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 844: Bluetooth Fingerprinting</title>
+<pubDate>09 Nov 2021</pubDate>
+<comments>http://twit.tv/sn/844</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we quickly cover a bunch of welcome news on the combating ransomware front. We look at the results from last week's Pwn2Own contest in Austin Texas and at a weird problem that only some users of Windows 11 started experiencing after Halloween. There's a serious problem with GitLab servers and additional supply-chain attacks on JavaScript's package management. Google fixed a bunch of things in Android last Tuesday, and Cisco has issued an emergency CVSS 9.8 alert and US Federal agencies are being ordered to patch hundreds of outstanding vulnerabilities. We have some fun closing the loop feedback from our listeners. I'm going to share the details of an interesting IRQ problem I tracked down last week. Then we'll take a look at an aspect of radio frequency fingerprinting that has apparently escaped everyone's notice until seven researchers from UCSD did the math.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0844/sn0844.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:52:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0844/sn0844.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0844/sn0844.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0844/sn0844.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 843: Trojan Source</title>
+<pubDate>02 Nov 2021</pubDate>
+<comments>http://twit.tv/sn/843</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we keep counting them Chrome 0-days, we look at a pair of badly misbehaving Firefox add-ons with Mozilla's moves to deal with their and future proxy API abuse. We check-in for Windows news from Redmond which I'm again unable to resist commenting upon, then we look at a surprise motherload of critical updates from Adobe and at the still-ongoing DDoS attacks against VoIP providers and their providers. We'll look at some fun and interesting Closing The Loop feedback from our listeners and I'm able to share some surprising early benchmarks from SpinRite. Then we finish by looking at a frighteningly clever and haunting new attack against source code known as “Trojan Source.”</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0843/sn0843.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:39:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0843/sn0843.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0843/sn0843.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0843/sn0843.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 842: The More Things Change...</title>
+<pubDate>26 Oct 2021</pubDate>
+<comments>http://twit.tv/sn/842</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we share some welcome news about Windows 11. Leo gets his wish about REvil. Microsoft improves vulnerability report management, attempts to explain their policy regarding the expiration of security updates, and prepares for the imminent release of the next big feature update to Windows 10, 21H2. Zerodium publicly solicits vulnerabilities in three top VPN providers. Three researchers disclose their new and devastating "Gummy Browser" attack, which I'll debunk. Another massively popular JavaScript NPM package has been maliciously compromised and then widely downloaded. We close the loop by looking at "Nubeva's" claims of having solved the ransomware problem. We touch on a new annoyance spreading across websites, and also briefly touch on four sci-fi events: "Dune," "Foundation," "Arrival," and "Invasion." I briefly update on SpinRite. Then we'll take a look back to share and discuss a conversation Leo and I had more than 20 years ago. What's surprising is the degree to which "The More Things Change..." how little, like nothing, actually has.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0842/sn0842.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:46:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0842/sn0842.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0842/sn0842.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0842/sn0842.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 841: Minh Duong's Epic Rickroll</title>
+<pubDate>19 Oct 2021</pubDate>
+<comments>http://twit.tv/sn/841</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we, of course, update on various controversies surrounding Win11 and catch up on the aftermath of last week's Patch Tuesday. We note that REvil's brief reappearance appears to have ended – perhaps this time forever – and we examine, just for the record, the outcome of the big, virtual, 30-nation anti-ransomware meeting where the invitations for China and Russia were apparently lost in the mail. We look at the amazing results of this past weekend's Tianfu Cup 2021 hacking competition in China, at the startling success of a prolific botnet's clipboard hijacking module, and at LinkedIn's decision to dramatically pare down its offerings in China. And then, after quickly sharing Sunday's big news about SpinRite, we're going to take a very fun and detailed look at the sophisticated senior prank orchestrated by Illinois' Minh Duong who miraculously sidestepped his own arrest.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0841/sn0841.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0841/sn0841.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0841/sn0841.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0841/sn0841.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 840: 0-Day Angst</title>
+<pubDate>12 Oct 2021</pubDate>
+<comments>http://twit.tv/sn/840</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at Microsoft's decision to finally disable Excel's legacy XLM by default, but not for everyone. We look at Google's warning sent to more than 14,000 of its Gmail users and at their move toward enforced two-step verification. We look at recent hacking and ransom payment legislation and at last week's massive breach at Twitch. We cover the emergency Apache web server update and the mass exodus from WhatsApp during last week's Facebook outage. We look at new Windows 11 side effects and at Patch Tuesday. We close the loop with some listeners and I quickly update on SpinRite's progress. Then we settle down to consider the true significance and import of the various year-to-date 0-day counts.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0840/sn0840.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:38:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0840/sn0840.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0840/sn0840.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0840/sn0840.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 839: “Something Went Wrong”</title>
+<pubDate>05 Oct 2021</pubDate>
+<comments>http://twit.tv/sn/839</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we, of course, look at the massive global outage that took down all Facebook services for 6 hours yesterday. But before we get there we look at this week's new pair of 0-day flaws which Google fixed in Chrome, we note the arrival of Windows 11 with a yawn and also caution about one known flaw that it's already known to have. We look at some potential for global action against ransomware, and some possible movement by the FCC to thwart SIM swapping and number transporting attacks. We also examine a widespread Android Trojan which is making its attackers far too much money, and speaking of money, there's a known flaw in Apple Pay when using a VISA card that neither company wants to fix. And finally, after a quick check-in on SpinRite, we're going to examine what exactly did “go wrong” at Facebook yesterday?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0839/sn0839.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:45:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0839/sn0839.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0839/sn0839.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0839/sn0839.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 838: autodiscover.fiasco</title>
+<pubDate>28 Sep 2021</pubDate>
+<comments>http://twit.tv/sn/838</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine a new pair of 0-days which have forced emergency updates to their respective products. We examine the growing annoyance of those who are reporting bugs to Apple, Epik's belated confirmation of their mega data breach, Windows 11's further progress toward its release, and its new and much more useful PC Health Check tool. We look at some additional fallout from this month's ever-exciting Patch Tuesday and take notice of a clever new approach for bypassing anti-malware checking under Windows. And after a quick check-in about the first two episodes of AppleTV's Foundation series, we settle in to examine the week's most explosive, worrisome and somewhat controversial disclosure of yet another huge Microsoft screw-up which caused this week's episode to be given the domain name: autodiscover.fiasco.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0838/sn0838.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:37:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0838/sn0838.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0838/sn0838.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0838/sn0838.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 837: Cobalt Strike</title>
+<pubDate>21 Sep 2021</pubDate>
+<comments>http://twit.tv/sn/837</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine a devastating and still ongoing DDoS attack against the latest in a series of VoIP service providers. We checkout the once again mixed blessing of last Tuesday's Microsoft patches, and we examine a welcome feature of Android 11 that's being back-ported through Android 6. We catch-up with Chrome's patching of two more new 0-day vulnerabilities and attacks, then we look at a “Pwnage” eMail I received from Troy Hunt's Have I Been Pwned site – was GRC Pwned? I then have a quick Sci-Fi reminder for the end of the week, a SpinRite update and a fun related YouTube posting. Then we'll wrap up by introducing the latest weapon in the malign perpetrator's arsenal, the powerful commercial tool known as Cobalt Strike.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0837/sn0837.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:40:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0837/sn0837.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0837/sn0837.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0837/sn0837.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 836: The Meris Botnet</title>
+<pubDate>14 Sep 2021</pubDate>
+<comments>http://twit.tv/sn/836</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we're going to note the apparent return of REvil--not nearly as dead and gone as many hoped. We're going to look at a new and quite worrisome 0-day exploitation of an old Windows IE MHTML component. Even though IE is gone, it's guts live on in Windows. We're going to share the not surprising but still interesting results of security impact surveys taken of IT and home workers, after which we'll examine a fully practical JavaScript based Spectre attack on Chrome. I have bit of closing the loop feedback to share and a surprisingly serious question about the true nature of reality for us to consider. Then we'll finish out today's podcast by looking at the evolution of Internet DoS attacks through the years which recently culminated in the largest ever seen, most problematic to block and contain RPS DDoS attack where RPS stands for Requests Per Second.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0836/sn0836.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:58:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0836/sn0836.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0836/sn0836.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0836/sn0836.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 835: TPM 1.2 vs 2.0</title>
+<pubDate>07 Sep 2021</pubDate>
+<comments>http://twit.tv/sn/835</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at a way of protecting ourselves from Razor-mouse-like local elevation of privilege attacks. We reexamine the meaning of the phrase “Internet Anonymity” following the ProtonMail revelation. We revisit Apple's now delayed CSAM plans. We look at some new troubles for Bluetooth and at a popular and persistently unpatched residential security system which can be trivially disarmed by bad guys. We share some interesting closing the loop feedback and a new Sci-Fi discovery. Then we take a long and careful look at the details and differences between version 1.2 and 2.0 of the Trusted Platform Module specification to discover just what it is that Microsoft wants to insist is available for Windows 11.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0835/sn0835.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0835/sn0835.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0835/sn0835.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0835/sn0835.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 834: Life: Hanging by a PIN</title>
+<pubDate>31 Aug 2021</pubDate>
+<comments>http://twit.tv/sn/834</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we'll start out by clarifying the terms credit freeze and credit lock. Then we have news of the T-Mobile breach from its perpetrator. We examine the evolving and infuriating question of where will Windows 11 run and we look at yet another newly revealed attack against Microsoft's Exchange server known as ProxyToken. I wanted to clarify a bit about Tailscale's source openness, and touch on the disturbing revelations shaking the mass storage industry with SSD performance being deliberately reduced once they've been well reviewed and adopted. I'll update our patient SpinRite owners on my recent work and progress, we'll touch on some cellular phone terminology, then conclude by considering the power of the PIN and look at just how much damage it can do.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0834/sn0834.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:32:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0834/sn0834.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0834/sn0834.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0834/sn0834.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 833: Microsoft's Reasoned Neglect</title>
+<pubDate>24 Aug 2021</pubDate>
+<comments>http://twit.tv/sn/833</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we briefly look at Firefox's plan to block unsecured downloads. We examine the threat posed by T-Mobile's massive and deep data breach and what current and past customers of T-Mobile should do. We look at three additional so-called “Overlay Networks” in addition to Tailscale, and also at the consequences of another Orange Tsai Microsoft Exchange Server exploit chain discovery. We'll also examine a simple-to-make flaw in the Razer gaming mouse installer, cover another worrisome IoT protocol screw-up, and share a couple of feedback notes and a question from our listeners. Then I want to conclude by following up on last week's discussion of Microsoft's apparent culpable negligence with a proposed explanation of their behavior and motivation which fits the facts so well that it becomes Reasoned Neglect.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0833/sn0833.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0833/sn0833.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0833/sn0833.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0833/sn0833.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 832: Microsoft's Culpable Negligence</title>
+<pubDate>17 Aug 2021</pubDate>
+<comments>http://twit.tv/sn/832</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at another very significant improvement in Firefox's privacy guarantees and the first steps for Facebook into native end-to-end encryption. We look at several well-predicted instances of abuse of Microsoft's PrintNightmare vulnerabilities, and at a clever cryptocurrency mining Botnet that optimizes the commandeered system for its own needs. We note ASUS' terrific move to help their motherboard users make the move to Windows 11, and at the merger of NortonLifeLock and Avast. Then, after touching upon a bit of errata and some closing-the-loop feedback from our terrific podcast followers, we conclude with a sober consideration of Microsoft's handling of vulnerability patching during the past year. And we ask what it means.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0832/sn0832.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:19:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0832/sn0832.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0832/sn0832.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0832/sn0832.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 831: Apple's CSAM Mistake</title>
+<pubDate>10 Aug 2021</pubDate>
+<comments>http://twit.tv/sn/831</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at a pervasive failure built into the random number generators of a great many, if not nearly all, lightweight IoT devices. We look at some old, new and returned critical vulnerabilities in major VPN products. And we encounter 14 fatal flaws in a widely used embedded TCP/IP stack. We look at a number of terrific bits of feedback from our listeners. Then we carefully examine the operation and consequences of Apple's recent announcement of their intention to begin reacting to the photographic image content being sent, received and stored by their iOS-based devices.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0831/sn0831.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:43:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0831/sn0831.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0831/sn0831.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0831/sn0831.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 830: The BlackMatter Interview</title>
+<pubDate>03 Aug 2021</pubDate>
+<comments>http://twit.tv/sn/830</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at FireFox's declining active user count, at the evolution of the Initial Network Access Broker world, at several different ransomware group renamings and revivals and we encounter a well-informed Active Directory security researcher who feels about Microsoft's July pretty much as we do. I want to turn our listeners onto a very interesting looking Hamachi'esque overlay for WireGuard and share a fun diagnostic anecdote that cost me a day of work last Friday. We have a bit of closing the loop feedback from a couple of our listeners, then we're going to share an interview with a member of the “maybe new or maybe rebranded” ransomware group BlackMatter which Recorded Future posted yesterday.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0830/sn0830.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:58:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0830/sn0830.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0830/sn0830.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0830/sn0830.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 829: SeriousSAM &amp; PetitPotam</title>
+<pubDate>27 Jul 2021</pubDate>
+<comments>http://twit.tv/sn/829</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we will plow into another two new serious vulnerabilities brought to the industry by Microsoft named SeriousSAM and PetitPotam. But we first look at how Chrome managed to hugely speed up its Phishing website early warning system (making it even earlier). We cover the striking news of Kaseya having obtained a universal decryptor which is effective for every one of their victims, we look at the massive HP printer driver mess and consider the larger lesson that it teaches, and then we look at the new security features GitHub is bringing to its support of the "Go" language. Then, after sharing one bit of listener feedback, we plow into SeriousSAM and PetitPotam.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0829/sn0829.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:40:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0829/sn0829.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0829/sn0829.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0829/sn0829.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 828: REvil Vanishes!</title>
+<pubDate>20 Jul 2021</pubDate>
+<comments>http://twit.tv/sn/828</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at the continuing attacks on Chrome with yet another zero-day and at Mozilla's continuing work to give their users the most privacy possible. We reexamine that iOS WiFi SSID bug and a related bug which, it turns out, Apple apparently knew was a showstopper. Amazingly, two more new problems have surfaced with Microsoft printer technology. We have a review of last week's Patch Tuesday including the importance of also updating any instances of Adobe's Acrobat and Reader. We revisit an old friend and consider the folly of rolling one's own crypto. We look at the explosive revelations surrounding the widespread abuse of iPhone and Android "surveillance-ware" produced by the NSO Group. And finally, after sharing one fun piece of errata, we're going to finish by examining the curious, sudden, complete and total disappearance of the REvil ransomware organization.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0828/sn0828.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:39:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0828/sn0828.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0828/sn0828.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0828/sn0828.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 827: REvil's Clever Crypto</title>
+<pubDate>13 Jul 2021</pubDate>
+<comments>http://twit.tv/sn/827</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>The past week has been dominated by the unimaginable mess that Microsoft has created with what have become multiple failed attempts to patch the two PrintNightmare flaws, and the continuing “Cleanup on Aisle 5” following what is widely regarded as the single most significant ransomware supply chain attack event ever. So today we first catch up on the still sadly relevant PrintNightmare from which the industry has been unable to awaken. We'll cover a few more bits of security news. Then, as planned, we'll take a deep dive into the detailed operation of the REvil/Sodinokibi malware's cryptographic design.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0827/sn0827.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0827/sn0827.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0827/sn0827.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0827/sn0827.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 826: The Kaseya Saga</title>
+<pubDate>06 Jul 2021</pubDate>
+<comments>http://twit.tv/sn/826</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>The so-called Windows “PrintNightmare” remote code execution flaw, as bad as it is, was overshadowed by the Sodinokibi malware which the REvil ransomware gang managed to infiltrate into Kaseya, a popular provider of remote network management solutions for managed service providers. Since those MSP's all, in turn, have their own customers, the result was a multiplicative explosion in simultaneous ransomware attacks. Since those attacks reportedly numbered in excess of 1000(!), this makes it the worst ransomware event in history. So, while we'll definitely be covering the PrintNightmare and other events of the week, our topic will be the reconstruction of the timeline and details of the Kaseya Saga.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0826/sn0826.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:34:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0826/sn0826.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0826/sn0826.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0826/sn0826.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 825: Halfway through 2021</title>
+<pubDate>29 Jun 2021</pubDate>
+<comments>http://twit.tv/sn/825</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at the story behind an important Edge update and revisit Google's now-delayed FloC liftoff. We consider the cost of Ireland's recovery from the Conti ransomware attack, and ask who's responsible for the damage and data loss following the remote wiping of many Western Digital My Book NAS devices. We take a moment to observe the passing of an industry legend. Then, we look at the mess surrounding questions of where Windows 11 will run. I share my favorite web browser keyboard shortcut, and also my favorite web site cloning tool, which I just had the occasion to use. We have a worthwhile looking cybersecurity Humble Bundle, then we'll wrap up by responding to two pieces of closing the loop feedback from our terrific listeners. And that will bring us to the end of the first half of an event-filled 2021.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0825/sn0825.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:37:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0825/sn0825.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0825/sn0825.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0825/sn0825.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 824: Avaddon Ransonomics</title>
+<pubDate>22 Jun 2021</pubDate>
+<comments>http://twit.tv/sn/824</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, believe it or not, we have yet another 0-day stomped out in Chrome. We also have some additional intelligence about the evolution of the ransomware threat. I also want to closely look at a curious WiFi bug that was recently discovered in iOS and what it almost certainly means about the way we're still programming today. Under our miscellany topic I want to share the SHA256 hash of the developer release .ISO of Windows 11 that Paul Thurrott, I and many others have been playing with this past week. I have a tip about creating an offline account and restoring Windows 10's traditional Start menu under Windows 11. A new purpose has also been discovered for this podcast which I want to share, and I've decided to explain in more detail than I have before what I've been doing with SpinRite's evolution - it's much more than anyone might expect - yet no more than is necessary. Then we're going to conclude with the view of ransomware from Russia, from two Russian security researchers who believe they know exactly why the Avaddon ransomware as a service decided to shutter its operations and publish its keys.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0824/sn0824.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0824/sn0824.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0824/sn0824.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0824/sn0824.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 823: TLS Confusion Attacks</title>
+<pubDate>15 Jun 2021</pubDate>
+<comments>http://twit.tv/sn/823</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we're going to start by looking at a moment-by-moment reconstruction of a recent Chrome browser attack and patch battle. Then we're going to recap last week's industry wide June patch-fest followed by looking at TikTok's controversial but unsurprising privacy policy update. We need to also cover the wonderful spy-novel'ish ANOM sting operation which lowered the boom on as many as 800 criminals. For our happily infrequent Errata section we'll challenge an apparently erroneous statement I made last week, then I want to share an interesting laptop data recovery experience which BitLocker made much more complex a few weeks ago which I think our listeners will find interesting. Then we're going to tackle this week's topic of some very troubling research which again demonstrates just how difficult it is to design robustly secure networked systems.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0823/sn0823.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0823/sn0823.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0823/sn0823.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0823/sn0823.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 822: Extrinsic Password Managers</title>
+<pubDate>08 Jun 2021</pubDate>
+<comments>http://twit.tv/sn/822</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week I want to start off with a calm rant to summarize why today's computer security is so atrocious. I think it's worth a bit of a reality check on that. Then we're going to look at a new feature in Firefox and at Firefox's apparent jump in performance. We'll touch on three new ransomware victims, look at what's been learned about how Colonial Pipeline was breached, and at the curious news that the FBI somehow managed to snatch all of DarkSide's Bitcoins. We'll look at the latest good and bad news regarding WordPress, and at Github's updated policy regarding posting proofs-of-concepts for ongoing attacks. I've finished Project Hail Mary, so I have a comment to make there, and I want to address the surprisingly controversial question of NAT vs IPv6. Then we'll wrap up by examining the question of whether password managers should be intrinsic to our browsers or extrinsic. I think we're going to have some fun!</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0822/sn0822.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0822/sn0822.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0822/sn0822.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0822/sn0822.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 821: Epsilon Red</title>
+<pubDate>01 Jun 2021</pubDate>
+<comments>http://twit.tv/sn/821</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we begin by examining the recent advances made by the just-released Chrome 91 and revisit Google's configurable long-term activity logging. On the ransomware front we look at yet another likely addition to the ransomware ecosystem: trusted 3rd-party file decryptors. We anticipate next week's activation of the Amazon Sidewalk ultra-wide area network, look at the questionable claims of another massive cyberattack, and at WhatsApp's privacy struggles with India and Brazil – couldn't happen to nicer folks. Then we'll touch on just a single bit of trivia before plowing into a detailed examination of the operation of the newest ransomware in town: Epsilon Red.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0821/sn0821.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0821/sn0821.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0821/sn0821.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0821/sn0821.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 820: The Dark Escrow</title>
+<pubDate>25 May 2021</pubDate>
+<comments>http://twit.tv/sn/820</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine Firefox's just-released and welcome re-architecture under codename "Fission." We look at a new and recently active ransomware player named "Conti" and at a recently paid, high-profile mega ransom. We then ask the question, "When they say IoT, do they mean us?" We examine the implications of a new industry term, "mean time to inventory." We'll then lighten things up a bit with a new form of CAPTCHA and, of all things, a screensaver I discovered that I cannot take my eyes off of. (Leo, it's not quite as bad as whatever that game is that you cannot stop playing, but still.) We'll then share an ample helping of closing-the-loop feedback from our terrific listeners, after which I want to conclude by predicting what I would bet we're probably going to next see emerge from the evolving ransomware business model sad though it is to utter the phrase "ransomware business model."</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0820/sn0820.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:28:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0820/sn0820.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0820/sn0820.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0820/sn0820.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 819: The WiFi Frag Attacks</title>
+<pubDate>18 May 2021</pubDate>
+<comments>http://twit.tv/sn/819</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we follow-up on last week's “News from the Darkside” with a surprising amount of happenings including the dark web's rejection of further ransomware. We look at blockchain analytics which are used to follow the dark money, the mixed signals now coming from the Darkside group and a live list of more than 2000 ransomware attacks during the past two years from the dark web. We cover last week's Patch Tuesday that you won't want to miss. We have a bit of miscellany, including the “Unidentified Aerial Phenomena Task Force” which is actually a thing, and some closing-the-loop feedback from our listeners regarding last week's Andy Weir's “Hail Mary” book mention. Then we take a close look at the biggest non-Colonial Pipeline news from last week: a new round of research which revealed a range of attacks on WiFi's security.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0819/sn0819.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:45:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0819/sn0819.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0819/sn0819.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0819/sn0819.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 818: News from the DarkSide</title>
+<pubDate>11 May 2021</pubDate>
+<comments>http://twit.tv/sn/818</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at a new (and old) thread to our global DNS infrastructure. We ask what the heck Google is planning with two-step verification, and we examine a huge new problem with the Internet's majority of email servers. We look at the reality of Tor exit node insecurity, touch on a new sci-fi novel by a well-known author, share a bit of closing-the-loop feedback, then take a look at this latest very high-profile ransomware attack from a previously low-key attacker.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0818/sn0818.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:34:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0818/sn0818.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0818/sn0818.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0818/sn0818.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 816: The Mystery of AS8003</title>
+<pubDate>27 Apr 2021</pubDate>
+<comments>http://twit.tv/sn/816</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we begin by remembering Dan Kaminsky, who the world lost last Friday at the age of 42. We finally catch up with this month's Patch Tuesday, and look at a welcome maturation in Google's Project Zero vulnerability disclosure policy. We shine a light upon a new startup venture which, if successful, promises to dramatically improve the future of IoT security. We then look at some controversial security research, for which the researchers have apologized, and wonder whether any apology was due. We shine another light onto a new battle Cloudflare has chosen to wage against an abusive patent troll, to help Cloudflare with additional attention, and to let our listeners know that they can participate in a money-making hunt for prior art. And after a brief SpinRite progress report, we engage with the Internet mystery of the Autonomous System 8003.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0816/sn0816.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0816/sn0816.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0816/sn0816.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0816/sn0816.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 815: Homogeneity Attacks</title>
+<pubDate>20 Apr 2021</pubDate>
+<comments>http://twit.tv/sn/815</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we touch on the Vivaldi browser project's take on Google's FLoC. We look at Chrome's vulnerability-driven update to v89, and then its feature-embellished move to Chrome 90. We consider the surprising move by the FBI to remove web shells from U.S. Exchange Servers without their owners' knowledge or permission, and WordPress's consideration of FLoC Blocking. We also have an interesting-looking programmer's Humble Bundle, some interesting closing-the-loop feedback from our listeners, and a brief progress report on SpinRite. We finish by examining an important privacy guarantee provided by Google's FLoC implementation which prevents homogeneity attacks, where users presenting a common cohort ID also share a sensitive attribute.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0815/sn0815.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:46:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0815/sn0815.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0815/sn0815.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0815/sn0815.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 814: PwnIt and OwnIt</title>
+<pubDate>13 Apr 2021</pubDate>
+<comments>http://twit.tv/sn/814</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we start with some needed revisiting of previous major topics. We look at an additional remote port that Chrome will soon be blocking, and the need to change server ports if you're using it. We look again at Google's forthcoming FLoC non-tracking technology and a new test page put up by the EFF. We revisit the PHP GIT server hack now that it's been fully understood. We look at Cisco's eyebrow-raising decision not to update some end-of-life routers having newly revealed critical vulnerabilities, and we also examine another instance of the industry's failure to patch for years. Then, we conclude with a blow-by-blow, or hack-by-hack, walkthrough of last week's quite revealing and somewhat chilling Pwn2Own competition.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0814/sn0814.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0814/sn0814.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0814/sn0814.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0814/sn0814.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 813: A Spy in Our Pocket</title>
+<pubDate>06 Apr 2021</pubDate>
+<comments>http://twit.tv/sn/813</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, by popular demand, we examine the big cover-up at Ubiquiti. We look at the consequences of the personal data of 533-plus million Facebook users appearing on the 'Net and how to tell if you're represented there. We look at another water treatment plant break-in with a very different outcome. We look at a new move by Google to further lock down Android against abuses of its permissive-by-design API services. We look at the new threat to Call Of Duty cheaters, and yet another set of serious vulnerabilities in QNAP NAS devices. Then, after sharing a catchy tweet, we look into some new research from researchers in Ireland into the unwarranted chattiness of iOS and Android mobile phones.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0813/sn0813.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0813/sn0813.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0813/sn0813.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0813/sn0813.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 812: GIT Me Some PHP!</title>
+<pubDate>30 Mar 2021</pubDate>
+<comments>http://twit.tv/sn/812</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we begin by checking in on the patching progress, or lack therefore, of the ProxyLogon Exchange Server mess. We examine a new Spectre vulnerability in Linux, a handful of high-severity flaws affecting OpenSSL, still more problems surfacing with SolarWinds code, an intriguing new offering from our friends at Cloudflare, and the encouraging recognition of the need for increasing vigilance of the security of increasingly prevalent networked APIs. I'll check in about my work on SpinRite. Then we're going to take a look at the often breathlessly reported hack of the PHP project's private Git server, and why I think that all the tech press got it all wrong.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0812/sn0812.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:27:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0812/sn0812.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0812/sn0812.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0812/sn0812.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 811: What the FLoC?</title>
+<pubDate>23 Mar 2021</pubDate>
+<comments>http://twit.tv/sn/811</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we briefly, I promise, catch up with ProxyLogon news regarding Windows Defender and the Black Kingdom. We look at Firefox's next release which will be changing its Referer header policy for the better. We look at this week's most recent RCE disaster, a critical vulnerability in the open source MyBB forum software, and China's new CAID (China Anonymization ID). We then conclude by taking a good look at Google's plan to replace tracking with explicit recent browsing history profiling, which is probably the best way to understand FLoC (Federated Learning of Cohorts). And as a special bonus we almost certainly figure out why they named it something so awful.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0811/sn0811.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0811/sn0811.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0811/sn0811.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0811/sn0811.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 810: ProxyLogon</title>
+<pubDate>16 Mar 2021</pubDate>
+<comments>http://twit.tv/sn/810</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we start off with a bunch of interesting browser-related news, zero-days, updates, a browser-based PoC for Spectre, a zero-script tracking kludge, and a look at last Tuesday's Patch Tuesday, what it fixed and what it broke. Some wonderful news for the Open Source community, a bit of miscellany, some listener feedback, and a screenshot of the final replacement for SpinRite's "Discovering System's Mass Storage Devices..." screen. Then we revisit the Microsoft Exchange disaster, another week downstream and still drowning.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0810/sn0810.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0810/sn0810.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0810/sn0810.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0810/sn0810.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 809: Hafnium</title>
+<pubDate>09 Mar 2021</pubDate>
+<comments>http://twit.tv/sn/809</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look into last week's critical Chrome update and also cover the wackiest-but-true Chrome extension of all time. We look at Google's new funding of Linux security development; a surprisingly undead, long-unheard-from media player that just received a massive collection of updates; and, yes, still another way of abusing Intel's latest processor microarchitecture. We need to update everyone on our Dependency Confusion topic from two weeks back because there's big news there. We have several bits of identical listener feedback all wanting to be sure that I knew something had happened. Then we're going to cover the world's latest global crisis which we first mentioned as breaking news in the middle of last week's podcast. It was breaking then. It's badly broken now.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0809/sn0809.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:35:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0809/sn0809.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0809/sn0809.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0809/sn0809.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 808: CNAME Collusion</title>
+<pubDate>02 Mar 2021</pubDate>
+<comments>http://twit.tv/sn/808</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss a welcome change coming soon to the Chrome browser, and a welcome evolution in last week's just released Firefox 86. We're going to look at questions surrounding the source of the original intrusion into SolarWinds servers, and at a new severity-10 vulnerability affecting Rockwell Automation PLC controllers. We'll touch on VMware's current trouble with exploitation of their vCenter management system, and I want to share a recent code debugging experience I think our listeners will enjoy and find interesting. Then we're going to conclude with some information about something that's been going on quietly out of sight and under the covers which must be made as widely public among web technologists as possible.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0808/sn0808.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0808/sn0808.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0808/sn0808.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0808/sn0808.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 807: Dependency Confusion</title>
+<pubDate>23 Feb 2021</pubDate>
+<comments>http://twit.tv/sn/807</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we'll follow-up on the Android SHAREit app sale. We look at a clever new means of web browser identification and tracking and at a little mistake the Brave browser made that had big effect. I want to remind our listeners about the ubiquitous presence of tracking and viewing beacons in virtually all commercial eMail today. We'll look at Microsoft's final SolarWinds Solorigate report and at another example of the growing trend of mobile apps being sold and then having their trust abused. I'll share a post from the weekend about a dramatic improvement in SSD performance after running SpinRite, but also why you may wish to hold off on doing so yourself. And then we're going to look at what everyone will agree was -- and perhaps still is -- a breathtaking oversight in the way today's complex software products are assembled which creates an inherent massive vulnerability across the entire software industry.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0807/sn0807.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:45:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0807/sn0807.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0807/sn0807.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0807/sn0807.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 806: C.O.M.B.</title>
+<pubDate>16 Feb 2021</pubDate>
+<comments>http://twit.tv/sn/806</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we'll begin by following up on last week's headline-making attack on the Oldsmar, Florida water treatment plant with new details that have since come to light. We'll then take a look into last week's Patch Tuesday event and at some of the sadly broken things that have once again been fixed. Also, anyone using Adobe's PDF tools, Acrobat or Reader, needs to update. We're going to look at a dangerous Android App with 1.8 billion (with a "b") users, and at Microsoft's note about the rise of web shells, which dovetails nicely into this week's WordPress add-on disaster. I'll briefly update about my past eventful week with SpinRite, which includes a 25-second movie of new SpinRite code running. Then we'll take a look at the recent discovery of the largest list of email and password combinations ever compiled, and what we can each do about it.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0806/sn0806.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0806/sn0806.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0806/sn0806.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0806/sn0806.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 805: SCADA Scandal</title>
+<pubDate>09 Feb 2021</pubDate>
+<comments>http://twit.tv/sn/805</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we begin with a collection of interesting and engaging news surrounding Google's Chrome browser. We look at a high-profile Windows Defender misfire, and at new WordPress plugin nightmares. We check in on the world of DDoS attacks and cover the meaning of three new critical vulnerabilities in SolarWinds software. We have a bit of closing-the-loop feedback from our listeners, an update on my work toward the next SpinRite, and then we look at a near-miss disaster in a poorly designed industrial control system.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0805/sn0805.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:1:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0805/sn0805.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0805/sn0805.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0805/sn0805.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 804: NAT Slipstreaming 2.0</title>
+<pubDate>02 Feb 2021</pubDate>
+<comments>http://twit.tv/sn/804</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine another instance of a misbehaving certificate authority losing Chrome's trust. We cover a number of serious new vulnerabilities including an urgent update need for the just-released Gnu Privacy Guard; another supply chain attack against end users; a disastrous 10-year-old flaw in Linux's SUDO command; and, thanks to Google, some details of Apple's quietly redesigned sandboxing of iMessage in iOS 14. I'm going to share something that I think our listeners will find quite interesting about some recent architectural decisions for SpinRite, and then we'll conclude with a look at the inevitable improvement in NAT bypassing Slipstreaming.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0804/sn0804.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0804/sn0804.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0804/sn0804.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0804/sn0804.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 803: Comparative Smartphone Security</title>
+<pubDate>26 Jan 2021</pubDate>
+<comments>http://twit.tv/sn/803</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at the updates in release 88 of both Chrome and Edge with their evolving password manager features. We also look at two recent headshaking consequences of the hard end of life for Adobe's Flash. Ransomware gangs have added another new incentive for payment, and additional details continue emerging about last year's SolarWinds attacks. We have newly disclosed discoveries from a Google Project Zero researcher, and I spend a bit of time wondering out loud how we're ever going to change the low priority that's currently being given to serious security problems that don't directly inconvenience end users. And we finish by examining a very useful analysis of the comparative security of iOS and Android recently published by Johns Hopkins' Matthew Green and team.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0803/sn0803.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0803/sn0803.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0803/sn0803.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0803/sn0803.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 802: Where the Plaintext Is</title>
+<pubDate>19 Jan 2021</pubDate>
+<comments>http://twit.tv/sn/802</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at one aspect in which Chrome and Chromium differ, and then at a bit of growth news from the DuckDuckGo folks. Google's Project Zero reports on some terrific detective work, and we look at last week's Patch Tuesday. There's also Microsoft's pending change to the flaws which enabled last year's Zerologon debacle, and the NSA's interesting statement about enterprises and the DoH protocol. We look at the research that cracked the secret key out of Google's supposedly uncrackable Titan FIDO U2F dongle, and we catch up with a bit of listener feedback. Then we wrap up by looking at various aspects of the frenzy caused by WhatsApp's quite predictable move to incorporate its users' conversation metadata into Facebook's monetization ecosystem.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0802/sn0802.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:27:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0802/sn0802.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0802/sn0802.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0802/sn0802.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 801: Out With the Old</title>
+<pubDate>12 Jan 2021</pubDate>
+<comments>http://twit.tv/sn/801</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we address critical updates for Firefox and all Chromium-based browsers and a potentially unwelcome, but reversible, change coming to Firefox. We look at another new tactic being employed by ransomware gangs; an update on ransomware's profitability; a bogus-seeming announcement from Intel during yesterday's CES; and the first use, on this podcast, of the term "teledildonics." Following that, we have some residual SolarWinds news, the formation of a security screw-up crisis management group, news of the inevitable attacks on Zyxel users, the mass exodus from WhatsApp following their plans to force all metadata sharing, and a sci-fi note about "The Expanse." Then, inspired by the amazing amount of old code I have rediscovered inside SpinRite, I will take our listeners back to the roaring '80s with a look at how far we have come from DOS v3.3, whose maximum partition size was 33.5 megabytes.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0801/sn0801.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:50:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0801/sn0801.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0801/sn0801.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0801/sn0801.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 800: SolarBlizzard</title>
+<pubDate>05 Jan 2021</pubDate>
+<comments>http://twit.tv/sn/800</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we open the New Year taking a longer look at fewer topics since the bad guys were apparently enjoying their New Year holiday, too. So we look at an interesting kludge that's been forced upon Chrome by ill-mannered antiviral scanners. We need to warn all enterprise users of Zyxel network border security products of another recently discovered built-in backdoor. We look at the rise in IoT compromise swatting attacks and a series of new flaws and vulnerabilities in the PHP Zend and Yii frameworks. We have a quick bit of miscellany to share, then I want to explain a lot about the value of trimming SSDs and newer SMR drives. And we'll conclude by catching up with what will hopefully be the last news, for a while at least, of the disastrous SolarWinds breach and intrusions.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0800/sn0800.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:46:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0800/sn0800.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0800/sn0800.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0800/sn0800.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+
+</channel>
+</rss>

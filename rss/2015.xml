@@ -1,0 +1,1024 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel><title>Security Now Archive (MP3)</title>
+<link>http://twit.tv/sn</link>
+<generator>Security Now Archive Generator - http://bitbucket.org/JanKanis/snarchive</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+<pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+<category>Technology</category>
+<category>Security</category>
+<image>
+<title>Security Now Archive (MP3)</title>
+<url>http://twit.cachefly.net/coverart/sn/sn144audio.jpg</url>
+<link>http://twit.tv/sn</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</itunes:subtitle>
+<itunes:summary>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</itunes:summary>
+<description>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</description>
+<itunes:keywords>
+Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:block>no</itunes:block>
+<itunes:image href="http://twit.cachefly.net/coverart/sn/sn1400audio.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+<itunes:category text="Software How-To"/>
+</itunes:category>
+<item>
+<title>SN 539: Listener Feedback #226</title>
+<pubDate>22 Dec 2015</pubDate>
+<comments>http://twit.tv/sn/539</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0539/sn0539.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:14:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0539/sn0539.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0539/sn0539.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0539/sn0539.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 538: Listener Feedback #225</title>
+<pubDate>15 Dec 2015</pubDate>
+<comments>http://twit.tv/sn/538</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0538/sn0538.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0538/sn0538.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0538/sn0538.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0538/sn0538.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 537: A Mega News Week</title>
+<pubDate>08 Dec 2015</pubDate>
+<comments>http://twit.tv/sn/537</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This first week of December brought us the early Christmas present of an amazing amount of interesting and important news.  This entire episode is chockful of reports and discussion of everything that has happened during the past busy week in security and privacy.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0537/sn0537.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:1:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0537/sn0537.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0537/sn0537.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0537/sn0537.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 536: Listener Feedback #224</title>
+<pubDate>01 Dec 2015</pubDate>
+<comments>http://twit.tv/sn/536</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0536/sn0536.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:39:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0536/sn0536.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0536/sn0536.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0536/sn0536.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 535: Listener Feedback #223</title>
+<pubDate>24 Nov 2015</pubDate>
+<comments>http://twit.tv/sn/535</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0535/sn0535.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0535/sn0535.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0535/sn0535.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0535/sn0535.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 534: Encryption: Law Enforcement's Whipping Boy</title>
+<pubDate>17 Nov 2015</pubDate>
+<comments>http://twit.tv/sn/534</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss a wide range of security news, Steve's feelings about the new iPad Pro, and lots of interesting bits of miscellany.  We then revisit the newly controversial question of Internet encryption which has been raised with great emphasis after last week's terrorist attacks in Paris.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0534/sn0534.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0534/sn0534.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0534/sn0534.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0534/sn0534.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 533: Listener Feedback #222</title>
+<pubDate>10 Nov 2015</pubDate>
+<comments>http://twit.tv/sn/533</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0533/sn0533.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:11:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0533/sn0533.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0533/sn0533.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0533/sn0533.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 532: Verifying iOS App Conduct</title>
+<pubDate>03 Nov 2015</pubDate>
+<comments>http://twit.tv/sn/532</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss a very busy week of interesting - and somewhat distressing - security and privacy news.  Then we explore the fundamental problem with iOS application security enforcement which is going to take Apple some time to resolve.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0532/sn0532.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:4:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0532/sn0532.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0532/sn0532.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0532/sn0532.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 531: Listener Feedback #221</title>
+<pubDate>27 Oct 2015</pubDate>
+<comments>http://twit.tv/sn/531</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0531/sn0531.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0531/sn0531.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0531/sn0531.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0531/sn0531.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 530: Doing It Wrong</title>
+<pubDate>20 Oct 2015</pubDate>
+<comments>http://twit.tv/sn/530</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week's podcast is titled "Doing It Wrong" because the week's news happened to include four unrelated examples of companies really getting security wrong.  So Leo and I first catch up on the week's other news and miscellany.  Then we take a look at four examples of security being done wrong.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0530/sn0530.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:21:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0530/sn0530.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0530/sn0530.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0530/sn0530.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 529: Listener Feedback #220</title>
+<pubDate>13 Oct 2015</pubDate>
+<comments>http://twit.tv/sn/529</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>In the wake of the news that LogMeIn is acquiring LastPass, Joe Siegrist, founder and CEO of LastPass, joins us to talk about the acquisition and what he hopes it means for the future of our favorite password manager. We then catch up with the week's news, and share and discuss 10 questions and comments from our listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0529/sn0529.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0529/sn0529.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0529/sn0529.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0529/sn0529.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 528: Breaches &amp; Vigilante Worms9</title>
+<pubDate>06 Oct 2015</pubDate>
+<comments>http://twit.tv/sn/528</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>With many massive Internet data breaches, and a prolific vigilante worm loose on the Internet, Leo and I spend a fun- and fact-filled podcast covering the past week's multitude of news.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0528/sn0528.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:39:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0528/sn0528.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0528/sn0528.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0528/sn0528.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 527: Listener Feedback #219</title>
+<pubDate>29 Sep 2015</pubDate>
+<comments>http://twit.tv/sn/527</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0527/sn0527.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0527/sn0527.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0527/sn0527.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0527/sn0527.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 526: iOS Content Blockers</title>
+<pubDate>22 Sep 2015</pubDate>
+<comments>http://twit.tv/sn/526</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I cover a busy past week of security news, then discuss the first week of iOS mobile web content filtering made possible by Wednesday's release of iOS v9. We take a close look at the initial set of content blocking apps available for iOS and Safari.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0526/sn0526.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0526/sn0526.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0526/sn0526.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0526/sn0526.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 525: Disconnect</title>
+<pubDate>15 Sep 2015</pubDate>
+<comments>http://twit.tv/sn/525</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I cover a relatively small bit of news of the week, including dispelling an unwarranted concern about LastPass being hacked.  Then we converse with Patrick Jackson, co-founder and chief technology officer (CTO) of Disconnect, about his company's view of the web-tracking industry, its past and probable future.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0525/sn0525.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:32:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0525/sn0525.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0525/sn0525.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0525/sn0525.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 524: Listener Feedback #218</title>
+<pubDate>08 Sep 2015</pubDate>
+<comments>http://twit.tv/sn/524</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0524/sn0524.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:51:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0524/sn0524.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0524/sn0524.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0524/sn0524.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 523: uBlock Origin</title>
+<pubDate>01 Sep 2015</pubDate>
+<comments>http://twit.tv/sn/523</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up with the week's major security events. We then examine the ecosystem of web page advertising by comparing it to other "opportunistic advertising" such as that appearing on public transportation, highway billboards, broadcast television commercials and other public venues - which consumers have no obligation to consume. I eschew the implication that visitors to a web page have an obligation to retrieve third-party content, over which the website has little or no control, which consumes bandwidth, reduces online privacy, hinders performance, and potentially exposes visitors to malicious exploitation. And I believe this remains true even when a visitor's retrieval of such despicable third-party content would generate much-needed revenue for the visited site. Finally, I review the many operational features of uBlock Origin, my chosen HTML firewall, which effectively returns control to web users.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0523/sn0523.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:34:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0523/sn0523.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0523/sn0523.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0523/sn0523.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 522: Listener Feedback #217</title>
+<pubDate>25 Aug 2015</pubDate>
+<comments>http://twit.tv/sn/522</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0522/sn0522.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:51:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0522/sn0522.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0522/sn0522.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0522/sn0522.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 521: Security Is Difficult</title>
+<pubDate>18 Aug 2015</pubDate>
+<comments>http://twit.tv/sn/521</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up on another in a series of very busy weeks of security news.  Then we discuss several recently written commentaries about the distressing state of online web advertising.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0521/sn0521.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:16:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0521/sn0521.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0521/sn0521.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0521/sn0521.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 520: The Quest for Surfing Safety</title>
+<pubDate>11 Aug 2015</pubDate>
+<comments>http://twit.tv/sn/520</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up on a busy week of security news, and then we follow my ongoing search for a low-hassle solution for safely browsing the danger-filled World Wide Web.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0520/sn0520.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:39:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0520/sn0520.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0520/sn0520.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0520/sn0520.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 519: The Win10 Privacy Tradeoff</title>
+<pubDate>04 Aug 2015</pubDate>
+<comments>http://twit.tv/sn/519</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>While Leo and I await the revelations from the ongoing annual Black Hat and DefCon conferences, the fallout from which we will doubtless be dissecting during upcoming weeks, we keep current with other security news and events.  We then examine the change of philosophy embodied by Microsoft's Windows 10 and its many controversial spying "features."</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0519/sn0519.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0519/sn0519.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0519/sn0519.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0519/sn0519.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 518: HORNET: A fix for TOR?</title>
+<pubDate>28 Jul 2015</pubDate>
+<comments>http://twit.tv/sn/518</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>August’s annual DefCon and Black Hat conferences never fail to surprise, worry, and entertain.  This year is no different.  Though still two weeks off, reports of interesting security troubles are beginning to surface.  This week Leo and I examine the week’s news and take a close look at a topic the Internet press got completely wrong:  HORNET, a new design for an Internet Anonymity network.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0518/sn0518.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0518/sn0518.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0518/sn0518.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0518/sn0518.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 517: Listener Feedback #216</title>
+<pubDate>21 Jul 2015</pubDate>
+<comments>http://twit.tv/sn/517</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0517/sn0517.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0517/sn0517.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0517/sn0517.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0517/sn0517.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 516: SQRL Revisited</title>
+<pubDate>14 Jul 2015</pubDate>
+<comments>http://twit.tv/sn/516</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Security and privacy-related news keeps coming!  So this week Father Robert and I will cover the past week's many interesting events.  Then we revisit the much evolved and nearly finalized SQRL protocol to see how it has grown and matured during the 92 weeks since I first disclosed its concept during Podcast 424 with Tom.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0516/sn0516.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:13:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0516/sn0516.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0516/sn0516.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0516/sn0516.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 515: A Crazy News Week!</title>
+<pubDate>07 Jul 2015</pubDate>
+<comments>http://twit.tv/sn/515</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>So much happened in the security and privacy worlds this past week that it will be everything Father Robert and I can do just to cover and discuss it all during a single podcast. So this is one of our pure news coverage and catch-up episodes. I'm sure it's going to be a blast!</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0515/sn0515.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:2:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0515/sn0515.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0515/sn0515.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0515/sn0515.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 514: Tor's Astoria Client</title>
+<pubDate>30 Jun 2015</pubDate>
+<comments>http://twit.tv/sn/514</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>After catching up with a lot of interesting security news, Father Robert and I take a look at recent research into improving the privacy delivered to users of the Tor network. Our conclusions are somewhat distressing.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0514/sn0514.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:25:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0514/sn0514.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0514/sn0514.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0514/sn0514.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 513: Listener Feedback #215</title>
+<pubDate>23 Jun 2015</pubDate>
+<comments>http://twit.tv/sn/513</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0513/sn0513.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:9:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0513/sn0513.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0513/sn0513.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0513/sn0513.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 512: Mozilla's Tracking Protection</title>
+<pubDate>16 Jun 2015</pubDate>
+<comments>http://twit.tv/sn/512</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's most interesting recent security events and a bit of miscellany.  Then we examine the revelations about the current state of Internet user tracking arising from Mozilla's Firefox tracking protection instrumentation.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0512/sn0512.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:12:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0512/sn0512.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0512/sn0512.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0512/sn0512.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 511: Listener Feedback #214</title>
+<pubDate>09 Jun 2015</pubDate>
+<comments>http://twit.tv/sn/511</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0511/sn0511.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0511/sn0511.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0511/sn0511.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0511/sn0511.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 510: Listener Feedback #213</title>
+<pubDate>02 Jun 2015</pubDate>
+<comments>http://twit.tv/sn/510</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0510/sn0510.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:54:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0510/sn0510.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0510/sn0510.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0510/sn0510.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 509: LOGJAM: Imperfect Forward Secrecy</title>
+<pubDate>26 May 2015</pubDate>
+<comments>http://twit.tv/sn/509</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>After covering the week's most significant security news, Leo and I closely examine the week's most significant news, a major new vulnerability in the Internet's TLS protocol known as “Logjam.”</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0509/sn0509.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:37:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0509/sn0509.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0509/sn0509.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0509/sn0509.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 508: Exploiting (Automobile) Keyless Entry</title>
+<pubDate>19 May 2015</pubDate>
+<comments>http://twit.tv/sn/508</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>After catching up with a busy week of security news, Leo and I take a close look at the surprisingly weak and insecure technology used for today's modern automotive keyless entry and engine start systems.  We show how easily it may be bypassed... perhaps for as little as $17 on eBay.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0508/sn0508.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:57:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0508/sn0508.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0508/sn0508.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0508/sn0508.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 507: Listener Feedback #212</title>
+<pubDate>12 May 2015</pubDate>
+<comments>http://twit.tv/sn/507</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0507/sn0507.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0507/sn0507.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0507/sn0507.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0507/sn0507.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 506: Law Enforcement Backdoors</title>
+<pubDate>05 May 2015</pubDate>
+<comments>http://twit.tv/sn/506</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up with the past week's most interesting security events and cover some miscellaneous tidbits. We then examine the carefully written testimony of two leading computer scientists who argue against the feasibility of incorporating encryption backdoors into commercial mobile and other device technologies.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0506/sn0506.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:46:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0506/sn0506.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0506/sn0506.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0506/sn0506.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 505: Listener Feedback #211</title>
+<pubDate>28 Apr 2015</pubDate>
+<comments>http://twit.tv/sn/505</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0505/sn0505.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:23:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0505/sn0505.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0505/sn0505.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0505/sn0505.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 504: Great Firewalls &amp; Cannons</title>
+<pubDate>21 Apr 2015</pubDate>
+<comments>http://twit.tv/sn/504</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up with the most interesting and significant security and privacy news of the week. Then we take a close look at what's known of the mechanisms China has developed - both filtering and offensive weaponry - to provide for their censorship needs and to potentially attack external Internet targets.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0504/sn0504.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0504/sn0504.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0504/sn0504.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0504/sn0504.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 503: Listener Feedback #210</title>
+<pubDate>14 Apr 2015</pubDate>
+<comments>http://twit.tv/sn/503</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0503/sn0503.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0503/sn0503.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0503/sn0503.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0503/sn0503.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 502: The TrueCrypt Audit</title>
+<pubDate>07 Apr 2015</pubDate>
+<comments>http://twit.tv/sn/502</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up on a busy and interesting week of security events.  Then we take a close look at the results of the just-completed second phase of the TrueCrypt audit, which focused upon the implementation of TrueCrypt's security and privacy guarantees.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0502/sn0502.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0502/sn0502.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0502/sn0502.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0502/sn0502.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 501: Listener Feedback #209</title>
+<pubDate>31 Mar 2015</pubDate>
+<comments>http://twit.tv/sn/501</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0501/sn0501.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:2:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0501/sn0501.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0501/sn0501.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0501/sn0501.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 500: Windows Secure Boot</title>
+<pubDate>24 Mar 2015</pubDate>
+<comments>http://twit.tv/sn/500</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the recent Pwn2Own hacking competition.  We examine another serious breach of the Internet's certificate trust system and marvel at a very clever hack to crack the iPhone four-digit PIN lock.  Then we take a close look at the evolution of booting from BIOS to UEFI and how Microsoft has leveraged this into their “Windows Secure Boot” system.  We also examine what it might mean for the future of non-Windows operating systems.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0500/sn0500.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:34:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0500/sn0500.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0500/sn0500.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0500/sn0500.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 499: Listener Feedback #208</title>
+<pubDate>17 Mar 2015</pubDate>
+<comments>http://twit.tv/sn/499</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0499/sn0499.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:58:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0499/sn0499.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0499/sn0499.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0499/sn0499.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 498: FREAK &amp; RowHammer</title>
+<pubDate>10 Mar 2015</pubDate>
+<comments>http://twit.tv/sn/498</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up with several VERY interesting security events and stories of the week.  Then we take a deep dive into two of the week's big security stories:  FREAK and RowHammer.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0498/sn0498.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:40:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0498/sn0498.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0498/sn0498.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0498/sn0498.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 497: Vehicle Hacking</title>
+<pubDate>03 Mar 2015</pubDate>
+<comments>http://twit.tv/sn/497</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week’s tamer-than-usual news; then we host a terrific interview of the team (recently featured on Sunday’s “60 Minutes”) who have been working with DARPA to address the challenge of hardening high-tech networked vehicles – autos and UAVs – against malicious hacking attacks.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0497/sn0497.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:2:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0497/sn0497.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0497/sn0497.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0497/sn0497.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 496: Listener Feedback #207</title>
+<pubDate>24 Feb 2015</pubDate>
+<comments>http://twit.tv/sn/496</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events, including the revelation of the Lenovo Crapware and the joint GCHQ/NSA Gemalto attack which rendered cellular phones insecure. Then we discuss questions and comments from listeners of previous episodes to tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world application notes for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0496/sn0496.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:2:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0496/sn0496.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0496/sn0496.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0496/sn0496.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 495: HTTP/2</title>
+<pubDate>17 Feb 2015</pubDate>
+<comments>http://twit.tv/sn/495</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I catch up with several VERY interesting security events and stories of the week. Then we take a close look and a deep dive into the operation of the industry's first change in the official HTTP protocol in 15 years - the finalization and emergence of the HTTP/2 IETF specification which significantly streamlines web browser and web server interaction.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0495/sn0495.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:45:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0495/sn0495.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0495/sn0495.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0495/sn0495.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 494: Listener Feedback #206</title>
+<pubDate>10 Feb 2015</pubDate>
+<comments>http://twit.tv/sn/494</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world ‘application notes’ for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0494/sn0494.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:52:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0494/sn0494.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0494/sn0494.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0494/sn0494.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 493: Tor: Not so Anonymous</title>
+<pubDate>03 Feb 2015</pubDate>
+<comments>http://twit.tv/sn/493</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>After catching up with a few important security events of the week, Leo and I revisit and dissect the anonymity promises of TOR in light of scores of academic papers which have questioned its anonymity guarantees.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0493/sn0493.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:11:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0493/sn0493.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0493/sn0493.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0493/sn0493.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 492: Listener Feedback #205</title>
+<pubDate>27 Jan 2015</pubDate>
+<comments>http://twit.tv/sn/492</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world ‘application notes’ for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0492/sn0492.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:31:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0492/sn0492.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0492/sn0492.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0492/sn0492.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 491: Cryptographic Backdoors</title>
+<pubDate>20 Jan 2015</pubDate>
+<comments>http://twit.tv/sn/491</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Following this slow week of security news, Leo and I first discuss the news surrounding how and why the U.S. was so sure that North Korea was behind the attack on Sony.  Then we examine the cryptographic consequences of the British and U.S. governments' recent pronouncements that terrorist communications should not be allowed to remain secret.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0491/sn0491.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:2:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0491/sn0491.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0491/sn0491.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0491/sn0491.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 490: The Enigma</title>
+<pubDate>13 Jan 2015</pubDate>
+<comments>http://twit.tv/sn/490</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I first discuss a surprisingly busy week of security news; then, we take a careful walk through the history (it's not what you may think) and the detailed operation of “The Enigma Machine” which Germany used to encrypt their sensitive radio traffic during the Second World War.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0490/sn0490.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0490/sn0490.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0490/sn0490.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0490/sn0490.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 489: Listener Feedback #204</title>
+<pubDate>06 Jan 2015</pubDate>
+<comments>http://twit.tv/sn/489</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Leo and I discuss the week's major security events and discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world ‘application notes’ for any of the security technologies and issues we have previously discussed.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0489/sn0489.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0489/sn0489.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0489/sn0489.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0489/sn0489.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+
+</channel>
+</rss>

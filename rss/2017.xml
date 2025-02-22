@@ -1,0 +1,988 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel><title>Security Now Archive (MP3)</title>
+<link>http://twit.tv/sn</link>
+<generator>Security Now Archive Generator - http://bitbucket.org/JanKanis/snarchive</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+<pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+<category>Technology</category>
+<category>Security</category>
+<image>
+<title>Security Now Archive (MP3)</title>
+<url>http://twit.cachefly.net/coverart/sn/sn144audio.jpg</url>
+<link>http://twit.tv/sn</link>
+<width>144</width>
+<height>144</height>
+</image>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte.</itunes:subtitle>
+<itunes:summary>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</itunes:summary>
+<description>
+Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, creator of Spinrite and ShieldsUP, discusses the hot topics in security today with Leo Laporte. Winner of the 2009 and 2007 people's choice award for best Technology/Science podcast.
+Records live at https://twit.tv/live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.
+</description>
+<itunes:keywords>
+Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:block>no</itunes:block>
+<itunes:image href="http://twit.cachefly.net/coverart/sn/sn1400audio.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+<itunes:category text="Software How-To"/>
+</itunes:category>
+<item>
+<title>SN 642: BGP</title>
+<pubDate>19 Dec 2017</pubDate>
+<comments>http://twit.tv/sn/642</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine how Estonia handled the Infineon crypto bug; two additional consequences of the pressure to maliciously mine cryptocurrency; zero-day exploits in the popular vBulletin forum system; Mozilla in the doghouse over “Mr. Robot”; Win10’s insecure password manager mistake; when legacy protocol come back to bite us; how to bulk-steal any Chrome user’s entire stored password vault; and we finally know where and why the uber-potent Mirai botnet was created, and by whom.  We also have a bit of errata and some fun miscellany.  Then we’re going to take a look at BGP, another creaky yet crucial – and vulnerable – protocol that glues the global Internet together.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0642/sn0642.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0642/sn0642.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0642/sn0642.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0642/sn0642.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 641: The iOS 11 Security Tradeoff</title>
+<pubDate>12 Dec 2017</pubDate>
+<comments>http://twit.tv/sn/641</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss the details behind the “USB/JTAG takeover” of Intel’s Management Engine, a rare Project Zero discovery, Microsoft’s well-meaning but ill-tested IoT security project, troubles with EV certs, various cryptocurrency woes, a clever DNS spoofing detection system, a terrific guide to setting up the EdgeRouter X for network segmentation, last week’s emergency out-of-cycle patch from Microsoft, a mitigated vulnerability in Apple’s HomeKit, Valve’s ending of Bitcoin for Steam purchases, finally some REALLY GOOD news in the elusive quest for encrypted email, a bit of miscellany, some closing-the-loop feedback with our listeners, and a look at the security sacrifice Apple made in the name of convenience and what it means.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0641/sn0641.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:5:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0641/sn0641.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0641/sn0641.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0641/sn0641.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 640: More News &amp; Feedback</title>
+<pubDate>05 Dec 2017</pubDate>
+<comments>http://twit.tv/sn/640</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss the long-awaited end of StartCom &amp; StartSSL, inside last week’s macOS passwordless root account access and problems with Apple’s patches, the question of Apple allowing 3D facial data access to apps, Facebook’s new and controversial use of camera images, in-the-wild exploitation of one of last month’s patched Windows vulnerabilities, an annoying evolution in browser-based cryptocurrency mining, exploitation of Unicode in email headers, Google’s advancing protection for Android users, a terrific list of authentication dongle-supporting sites and services, Mirai finds another 100,000 exposed ZyXEL routers, Google moves to reduce system crashes, a bit of miscellany including another security-related Humble Bundle offering, and some closing-the-loop feedback from our terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0640/sn0640.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0640/sn0640.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0640/sn0640.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0640/sn0640.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 639: News &amp; Feedback</title>
+<pubDate>28 Nov 2017</pubDate>
+<comments>http://twit.tv/sn/639</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss a new bad bug found in the majority of SMTP mailing agents, 54 high-end HP printers found to be remotely exploitable, more than 3/4ths of 433,000 websites are using vulnerable JavaScript libraries, horrible free security software, some additional welcome Firefox news, a bit of errata, some fun miscellany, and a BUNCH of feedback from our listeners including reactions to last week's Quad 9 recommendation.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0639/sn0639.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:9:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0639/sn0639.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0639/sn0639.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0639/sn0639.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 638: Quad Nine</title>
+<pubDate>21 Nov 2017</pubDate>
+<comments>http://twit.tv/sn/638</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss Windows having a birthday, Net Neutrality about to succumb to big business despite a valiant battle, Intel's response to the horrifying JTAG over USB discovery, another surprising AWS public bucket discovery, Android phones caught sending position data when all permissions are denied, many websites found to be watching their visitors' actions, more Infineon ID card upset, the return of BlueBorne, a new arrival to our "Well, THAT didn't take long" department, speedy news for Firefox 57, some miscellany, listener feedback, and a look at the very appealing and speedy new "Quad 9" alternative DNS service.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0638/sn0638.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:33:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0638/sn0638.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0638/sn0638.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0638/sn0638.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 637: Schneier on Equifax</title>
+<pubDate>14 Nov 2017</pubDate>
+<comments>http://twit.tv/sn/637</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss why Steve won’t be relying upon Face ID for security, a clever new hack of longstanding NTFS and Windows behavior, the Vault 8 WikiLeaks news, the predictable resurgence of the consumer device encryption battle, a new and clever data exfiltration technique, new antimalware features coming to Chrome, an unbelievable discovery about access to the IME in Skylake and subsequent Intel chipsets, a look at who’s doing the unauthorized crypto mining, WebAssembly is ready for primetime, a bit of miscellany, some closing-the-loop feedback with our listeners – and then we share Bruce Schneier’s congressional testimony about the Equifax breach.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0637/sn0637.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:11:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0637/sn0637.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0637/sn0637.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0637/sn0637.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 636: ROCA Pain</title>
+<pubDate>07 Nov 2017</pubDate>
+<comments>http://twit.tv/sn/636</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss the inevitable dilution in the value of code signing, a new worrisome cross-site privacy leakage, is Unix embedded in all our motherboards?, the ongoing application spoofing problem, a critical IP address leakage vulnerability in TOR and the pending major v3 upgrade to TOR, a Signal app for ALL our desktops, an embarrassing and revealing glitch in Google Docs, bad behavior by an audio driver installer, a pending RFC for IoT updating, two reactions to Win10 Controlled Folder Access, a bit of miscellany, some closing the loop with our listeners, and, three weeks after the initial ROCA disclosure I'm reminded of two lines from the movie "Serenity" -- Assassin:"It's worse than you know." Mal:"It usually is."</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0636/sn0636.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:37:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0636/sn0636.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0636/sn0636.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0636/sn0636.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 635: Reaper Redux</title>
+<pubDate>31 Oct 2017</pubDate>
+<comments>http://twit.tv/sn/635</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine the source of WannaCry, a new privacy feature for Firefox, Google's planned removal of HPKP, the idea of visual objects as a second factor, an iOS camera privacy concern, the CAPTCHA wars, a horrifying glimpse into a non-Net Neutrality world, the Coinhive DNS hijack, the new Bad Rabbit cryptomalware, a Win10 anti-cryptomalware security tip, spying vacuum cleaners, a new Amazon service, some loopback Q&amp;A with our listeners, and another look at the Reaper botnet.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0635/sn0635.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:7:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0635/sn0635.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0635/sn0635.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0635/sn0635.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 634: IoT Flash Botnets</title>
+<pubDate>24 Oct 2017</pubDate>
+<comments>http://twit.tv/sn/634</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss some ROCA fallout specifics, an example of PRNG misuse, the Kaspersky Lab controversy, a DNS security initiative for Android, another compromised download occurrence, a browser-based cryptocurrency miner for us to play with... and Google considering blocking them natively, other new protections coming to Chrome, an update on Marcus Hutchins, Microsoft's "TruePlay" being added to the Win10 fall creators update, some interesting "Loopback" from our terrific listeners... and then we take a closer look at the rapidly growing threat of IoT-based "Flash Botnets."</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0634/sn0634.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0634/sn0634.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0634/sn0634.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0634/sn0634.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 633: KRACKing WiFi</title>
+<pubDate>17 Oct 2017</pubDate>
+<comments>http://twit.tv/sn/633</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine ROCA's easily factorable public keys, the surprising prevalence of web-based cryptocurrency mining, some interesting work in iOS dialog password dialog spoofing, Google's Advanced Protection Program, some good "Loopback" comments from our listeners... and then we take a close look at KRACK - the Key Reinstallation AttaCK against ALL unpatched WiFi systems.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0633/sn0633.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0633/sn0633.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0633/sn0633.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0633/sn0633.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 632: The DNSSEC Challenge</title>
+<pubDate>10 Oct 2017</pubDate>
+<comments>http://twit.tv/sn/632</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we take a look at a well-handled breach-response at Discus, a rather horrifying mistake Apple made in the implementation of their APFS encryption (and the difficulty to the user of fully cleaning up after it), the famous "robots.txt" file gets a brilliant new companion, somewhat shocking news about Windows XP... or is it?, Firefox EOL for Windows XP support coming next summer, the sage security thought for the day, an update on "The Orville", some closing the loop comments, including a recommendation of the best Security Now series we did in the past... and finally, a look at the challenge of DNSSEC.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0632/sn0632.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0632/sn0632.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0632/sn0632.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0632/sn0632.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 631: Private Contact Discovery</title>
+<pubDate>03 Oct 2017</pubDate>
+<comments>http://twit.tv/sn/631</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss some aspects of iOS v11, the emergence of browser hijack cryptocurrency mining, new information about the Equifax hack, Google security research and Gmail improvements, breaking DKIM without breaking it, concerns over many servers in small routers and aging unpatched motherboard EFI firmware, a new privacy leakage bug in IE, a bit of miscellany, some long-awaited closing-the-loop feedback from our listeners, and a close look into a beautiful piece of work by Moxie &amp; Co. on Signal.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0631/sn0631.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0631/sn0631.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0631/sn0631.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0631/sn0631.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 629: Apple Bakes Cookies</title>
+<pubDate>19 Sep 2017</pubDate>
+<comments>http://twit.tv/sn/629</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Padre and I discuss what was up with SN's recent audio troubles, more on the Equifax fiasco, the EFF and Cory Doctorow weigh in on forthcoming browser-encrypted media extensions (EME), an emerging browser-based payment standard, when two-factor is not two-factor, the CCleaner breach and what it means, a new Bluetooth-based attack, an incredibly welcome and brilliant cookie privacy feature in iOS 11, and a heads-up caution about the volatility of Google's Android smartphone cloud backups.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0629/sn0629.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0629/sn0629.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0629/sn0629.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0629/sn0629.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 628: The Equifax Fiasco</title>
+<pubDate>12 Sep 2017</pubDate>
+<comments>http://twit.tv/sn/628</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss last Friday's passing of our dear friend and colleague Jerry Pournelle, when AI is turned to evil purpose, whether and when Google's Chrome browser will warn of man in the middle attacks, why Google is apparently attempting to patent pieces of a compression technology they did not invent, another horrifying router vulnerability disclosure -- including ten 0-day vulnerabilities, an update on the sunsetting of Symantec's CA business unit, another worrying failure at Comodo, a few quick bits, an update on my one commercial product SpinRite, answering a closing the loop question from a listener, and a look at the Equifax fiasco.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0628/sn0628.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0628/sn0628.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0628/sn0628.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0628/sn0628.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 627: Sharknado</title>
+<pubDate>05 Sep 2017</pubDate>
+<comments>http://twit.tv/sn/627</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>Although there are an unbelievable FIVE “Sharknado” movies, this will be the first and last time we use that title for a podcast!  This week we have another update on Marcus Hutchins.  We discuss the validity of WikiLeaks documents, the feasibility of rigorously proving software correctness, and the fact that nearly half a million people need to get their bodies' firmware updated.  Another controversial CIA project is exposed by WikiLeaks.  A careful analysis is done of the FCC's Title II Net Neutrality public comments.  We talk about a neat two-factor auth tracking site, the Stupid Patent of the Month, an example of a vanity top-level domain, a bit of errata, and finish up with the utterly unconscionable security mistakes made by AT&amp;T in their line of U-Verse routers.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0627/sn0627.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:59:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0627/sn0627.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0627/sn0627.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0627/sn0627.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 626: Shattering Trust</title>
+<pubDate>29 Aug 2017</pubDate>
+<comments>http://twit.tv/sn/626</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we cover a bit of the ongoing drama surrounding Marcus Hutchins, examine a reported instance of interagency hacking, follow the evolving market for 0-day exploits, examine trouble arising from the continued use of a deprecated Apple security API, discover that Intel's controversial platform management engine CAN, after all be disabled, look into another SMS attack, bring note to a nice looking TOTP authenticator, recommend an alternative to the shutting-down CrashPlan, deal with a bit of errata and miscellany, then we look into an interesting bit of research which invokes "The Wrath of Kahn".</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0626/sn0626.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:0:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0626/sn0626.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0626/sn0626.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0626/sn0626.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 625: Security Politics</title>
+<pubDate>22 Aug 2017</pubDate>
+<comments>http://twit.tv/sn/625</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss the continuing Marcus Hutchins drama, the disclosure of a potentially important Apple secret, a super-cool website and browser extension our listeners are going to appreciate, trouble with extension developers being targeted, a problem with the communication bus standard in every car, an important correction from Elcomsoft, two 0-days in Foxit's PDF products, Lavalamps for entropy, the forthcoming iOS 11 TouchID killswitch, very welcome Libsodium audit results, a mistake in AWS permissions, a refreshingly forthright security statement, a bit of errata, miscellany, and a few closing the loop bits from our terrific listeners!</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0625/sn0625.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:9:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0625/sn0625.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0625/sn0625.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0625/sn0625.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 624: Twelve and Counting</title>
+<pubDate>15 Aug 2017</pubDate>
+<comments>http://twit.tv/sn/624</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we have a Marcus Hutchins update, the backstory on the NIST's rewrite of their 15 year old password guidance, can DNA be used to hack a computer?, can stop sign graffiti be used to misdirect autonomous vehicles?, the final nail in the WoSign/StartCom coffin, why we need global Internet policy treaties, this week in "researchers need protection", a VPN provider who is doing everything right, Elcomsoft's password manager cracker, a bit of errata and miscellany... and some closing the loop feedback from this podcast's terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0624/sn0624.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0624/sn0624.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0624/sn0624.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0624/sn0624.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 623: Inching Forward</title>
+<pubDate>08 Aug 2017</pubDate>
+<comments>http://twit.tv/sn/623</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss and look into DigiCert's acquisition of Symantec's certificate authority business unit, LogMeIn's LastPass Premium price hike, the troubling case of Marcus Hutchins' post-Defcon arrest, another instance of WannaCry-style SMBv1 propagation, this week's horrific IoT example, some hopeful IoT legislation, the consequences of rooting early Amazon Echoes, the drip drip drip of Wikileaks Vault 7 drips again, Mozilla's VERY interesting easy-to-use secure large file encrypted store and forward service, the need to know what your VPN service is really up to, a bit of errata, miscellany, and some closing-the-loop feedback from our always-attentive terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0623/sn0623.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:5:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0623/sn0623.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0623/sn0623.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0623/sn0623.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 622: Hack the Vote</title>
+<pubDate>01 Aug 2017</pubDate>
+<comments>http://twit.tv/sn/622</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we look at the expected DEF CON fallout including the hacking of U.S. election voting machines, Microsoft’s enhanced Bug Bounty Program, the wormification of the Broadcom WiFi firmware flaw, the worries when autonomous AI agents begin speaking in their own language which we cannot understand, Apple’s pulling VPN clients from its Chinese App Store, a follow-up on iRobot’s floor plan mapping intentions, some news on the Chrome browser front, the 18th Vault 7 WikiLeaks dump, and some closing-the-loop feedback from our terrific podcast followers.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0622/sn0622.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:42:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0622/sn0622.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0622/sn0622.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0622/sn0622.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 621: Crypto Tension</title>
+<pubDate>25 Jul 2017</pubDate>
+<comments>http://twit.tv/sn/621</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>We start off this week with a fabulous Picture of the Week and, for the first time in this podcast’s 12-year history, our first Quote of the Week.  Then we’ll be discussing the chilling effects of arresting ethical hackers, the upcoming neutrality debate congressional hearing, something troubling I encountered at McAfee.com, an entirely new IoT nightmare you couldn’t have seen coming and just won’t believe, the long-awaited Adobe Flash end-of-life schedule, welcome performance news for Firefox users, the FCC allocates new sensor spectrum for self-driving cars, three bits of follow-up errata, a bit of miscellany, and then Crypto Tension – a careful look at the presently ongoing controversy surrounding the deliberate provisioning of passive eavesdropping decryption being seriously considered for inclusion in the forthcoming TLS v1.3 standard.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0621/sn0621.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0621/sn0621.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0621/sn0621.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0621/sn0621.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 620: Calm Before the Storm</title>
+<pubDate>18 Jul 2017</pubDate>
+<comments>http://twit.tv/sn/620</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, while waiting for news from the upcoming BlackHat &amp; DefCon conventions, we discuss another terrific security eBook bundle offer, a Net Neutrality follow-up, a MySpace account recovery surprise, another new feature coming to Win10, the wrong-headedness of paste-blocking web forms, Australia versus the laws of math, does an implanted pacemaker meet the self-incrimination exemption?, an updated worse-case crypto-future model, it's surprising what you can find at a flea market, another example of the consumer as the product, a SQRL technology update, and some closing-the-loop feedback from our terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0620/sn0620.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:44:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0620/sn0620.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0620/sn0620.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0620/sn0620.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 619: All the Usual Suspects</title>
+<pubDate>11 Jul 2017</pubDate>
+<comments>http://twit.tv/sn/619</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we have all the usual suspects: governments regulating their citizenry, evolving Internet standards, some brilliant new attack mitigations and some new side-channel attacks, browsers responding to negligent certificate authorities, specious tracking lawsuits, flying device jailbreaking, more IoT tomfoolery, this week’s horrifying Android vulnerability, more Vault 7 CIA WikiLeaks, a great tip about controlling the Internet through DNS – and even more! In other words, all of the usual suspects! (And two weeks until our annual Black Hat exploit extravaganza!)</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0619/sn0619.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0619/sn0619.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0619/sn0619.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0619/sn0619.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 618: Research: Useful &amp; Otherwise</title>
+<pubDate>27 Jun 2017</pubDate>
+<comments>http://twit.tv/sn/618</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss another terrific NIST initiative, RSA crypto in a quantum computing world, Cisco's specious malware detection claims, the meaning of post-audit OpenVPN bug findings, worrisome bugs revealed in Intel's recent Skylake and Kaby Lake processors, the commercialization of a malware technique, WannaCry keeps resurfacing, Linksys responds to the CIA's Vault 7 CherryBomb firmware, another government reacts to encryption, the NSA's amazing GitHub repository, more news about HP printer auto-updating, a piece of errata, some miscellany, and some closing-the-loop feedback from our listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0618/sn0618.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0618/sn0618.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0618/sn0618.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0618/sn0618.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 617: When Governments React</title>
+<pubDate>20 Jun 2017</pubDate>
+<comments>http://twit.tv/sn/617</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss France, Britain, Japan, Germany &amp; Russia each veering around in their Crypto Crash Cars, Wikileaks' Vault7 reveals widespread CIA WiFi router penetration, why we can no longer travel with laptops, HP printer security insanity, how long are typical passwords?, Microsoft to kill off SMBv1, the all-time mega ransomware pay out, Google to get into the whole-system backup business, hacking PCs with "Vape Pens", a bit of miscellany, and a bunch of Closing the Loop feedback with our terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0617/sn0617.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0617/sn0617.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0617/sn0617.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0617/sn0617.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 616: Things Are Getting Worse</title>
+<pubDate>13 Jun 2017</pubDate>
+<comments>http://twit.tv/sn/616</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss clever malware hiding its social media communications.  The NSA documents the Russian election hacking two-factor authentication bypass; meanwhile, other Russian attackers leverage Google’s own infrastructure to hide their spoofing.  Tavis finds more problems in Microsoft’s anti-malware protection; a cryptocurrency stealing malware; more concerns over widespread Internet-connected camera design; malware found to be exploiting Intel’s AMT motherboard features; the new danger of mouse-cursor hovering; Apple’s iCloud sync security claims; Azure changes their CA; a bunch of catch-up miscellany; and a bit of “closing the loop” feedback from our listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0616/sn0616.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:4:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0616/sn0616.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0616/sn0616.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0616/sn0616.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 615: Legacy’s Long Tail</title>
+<pubDate>06 Jun 2017</pubDate>
+<comments>http://twit.tv/sn/615</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss an embarrassing high-profile breach of an online identity company, an overhyped problem found in Linux’s sudo command, the frightening software used by the U.K.’s Trident nuclear missile submarine launch platforms, how emerging nations prevent high school test cheating, another lesson about the danger of SMS authentication codes, another worrisome Shodan search result, high-penetration dangerous adware from a Chinese marketer, another “that’s not a bug” bug in Chrome allowing websites to surreptitiously record audio and video without the user’s knowledge, the foreseeable evolution of hybrid cryptomalware, the limp return of Google Contributor, Google continues to work on end-to-end email encryption, a follow-up on straight-to-voicemail policy, “homomorphic encryption” (what the heck is that?), and “closing the loop” follow-up from recent discussions.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0615/sn0615.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:59:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0615/sn0615.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0615/sn0615.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0615/sn0615.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 614: Vulnerabilities Galore!</title>
+<pubDate>30 May 2017</pubDate>
+<comments>http://twit.tv/sn/614</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we discuss a new non-email medium for spearphishing, Chipotle can’t catch a break, social engineering WannaCry exploits on Android, video subtitling now able to takeover our machines, a serious Android UI design flaw that Google appears to be stubbornly refusing to address, Linux gets its own version of WannaCry, another dangerous NSA exploit remains unpatched and publicly exploitable on WinXP and Server 2003 machines, a look at 1Password’s brilliant and perfect new Travel Mode, Google extends its ad tracking into the offline world, some follow-ups, miscellany, and closing-the-loop feedback from our terrific listeners – concluding with my possibly useful analogy to explain the somewhat confusing value of open versus closed source.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0614/sn0614.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:3:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0614/sn0614.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0614/sn0614.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0614/sn0614.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 613: WannaCry Aftermath</title>
+<pubDate>23 May 2017</pubDate>
+<comments>http://twit.tv/sn/613</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week we examine a bunch of WannaCry follow-ups, including some new background, reports of abilities to decrypt drives, attacks on the kill switch, and more.  We also look at what the large Stack Overflow site had to do to do HTTPS, the WiFi security of various properties owned by the U.S. President, more worrisome news coming from the U.K.'s Theresa May, the still sorry state of certificate revocation, are SSDs also subject to Rowhammer-like attacks, some miscellany, and closing the loop with our listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0613/sn0613.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:9:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0613/sn0613.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0613/sn0613.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0613/sn0613.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 612: Makes You WannaCry</title>
+<pubDate>16 May 2017</pubDate>
+<comments>http://twit.tv/sn/612</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss an update on the FCC's Net Neutrality comments, the discovery of an active keystroke logger on dozens of HP computer models, the continuing loss of web browser platform heterogeneity, the OSTIF's just-completed OpenVPN security and practices audit, more on the dangers of using smartphones as authentication tokens, some extremely welcome news on the Android security front, long-awaited updated password recommendations from NIST, some follow-up errata, a bit of tech humor and miscellany, closing the loop with some listener feedback, and then a look at last week's global explosion of the WannaCry worm.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0612/sn0612.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:56:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0612/sn0612.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0612/sn0612.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0612/sn0612.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 611: Go FCC Yourself</title>
+<pubDate>09 May 2017</pubDate>
+<comments>http://twit.tv/sn/611</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss much more about the Intel AMT nightmare, Tavis and Natalie discover a serious problem in Microsoft's built-in malware scanning technology, Patch Tuesday, Google's Android patches, SMS two-factor authentication breached, Google goes phishing, the emergence of ultrasonic device tracking, lots of additional privacy news, some errata and miscellany, actions U.S. citizens can take to express their dismay over recent Net Neutrality legislation, and some quick closing-the-loop feedback from our terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0611/sn0611.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:11:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0611/sn0611.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0611/sn0611.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0611/sn0611.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 610: Intel's Mismanagement Engine</title>
+<pubDate>02 May 2017</pubDate>
+<comments>http://twit.tv/sn/610</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss the long-expected remote vulnerability in Intel's super-secret motherboard Management Engine technology, exploitable open ports in Android apps, another IoT blows a suspect's timeline, newly discovered problems in the Ghostscript interpreter, yet another way for ISPs and others to see where we go, a new bad problem in the Edge browser, Chrome changes its certificate policy, an interesting new "vigilante botnet" is growing fast, a proposed solution to smartphone-distracted driving, ransomware as a service, Net Neutrality heads back to the chopping block (again), an intriguing new service from Cloudflare, and the ongoing Symantec certificate issuance controversy.  Then some fun errata, miscellany, and some "closing the loop" feedback from our terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0610/sn0610.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:17:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0610/sn0610.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0610/sn0610.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0610/sn0610.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 609: The Double Pulsar</title>
+<pubDate>25 Apr 2017</pubDate>
+<comments>http://twit.tv/sn/609</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss how one of the NSA's Vault7 vulnerabilities has gotten loose, a clever hacker removes Microsoft deliberate (and apparently unnecessary) block on Win7/8.1 updates for newer processors, Microsoft refactors multifactor authentication, Google to add native ad-blocking to Chrome… and what exactly *are* abusive ads?, Mastercard to build a questionable fingerprint sensor into their cards, are Bose headphones spying on their listeners?, 10 worrisome security holes discovered in Linksys routers, MIT cashes out half of its IPv4 space, and the return of two meaner BrickerBots. Then some Errata, a bit of Miscellany, and, time permitting, some "Closing the Loop" feedback from our podcast's terrific listeners.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0609/sn0609.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0609/sn0609.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0609/sn0609.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0609/sn0609.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 608: News &amp; Feedback Potpourri</title>
+<pubDate>18 Apr 2017</pubDate>
+<comments>http://twit.tv/sn/608</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss another new side-channel attack on smartphone PIN entry (and much more), Smartphone fingerprint readers turn out to be far more spoofable that we had hoped. All Linux kernels prior to v4.5 are vulnerable to a serious remote network attack over UDP, a way to prevent Google from tracking the search links we click (and to allow us to copy the links from the search results), the latest NSA Vault7 data dump nightmare, the problem with punycode domains, four years after the public UPnP router exposure, looking closely at the mixed blessing of hiding WiFi access point SSID broadcasts, some miscellany, and then a collection of quick "Closing The Loop" follow-ups from last week's "Proactive Privacy" podcast.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0608/sn0608.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:7:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0608/sn0608.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0608/sn0608.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0608/sn0608.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 607: Proactive Privacy  (Really, this time!)</title>
+<pubDate>11 Apr 2017</pubDate>
+<comments>http://twit.tv/sn/607</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss Symantec finding 40 past attacks explained by the Vault 7 document leaks, an incremental improvement coming to CA certificate issuance, and  Microsoft’s patching of a zero-day Office vulnerability that was being exploited in the wild.  They ask, “What’s a Brickerbot?”  They cover why you need a secure DNS registrar, This Week in IoT Tantrums, a headshaker from our “You really can’t make this stuff up” department, the present danger of fake VPN services, and an older edition of Windows reaching end of patch life.  They continue with some “closing the loop” feedback from their listeners and a bit of miscellany, then close with a comprehensive survey of privacy-encroaching technologies and what can be done to limit their grasp.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0607/sn0607.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:19:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0607/sn0607.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0607/sn0607.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0607/sn0607.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 606: Proactive Privacy</title>
+<pubDate>04 Apr 2017</pubDate>
+<comments>http://twit.tv/sn/606</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Steve and Leo discuss another iOS update update, more bad news and some good news on the IoT front, the readout on Tavis Ormandy's shower revelation, more worrisome anti-encryption saber rattling from the EU, a look at a recent Edward Snowden tweet, Samsung's S8 mistake, an questionable approach to online privacy, celebrating the 40th anniversary of Alice and Bob, some quickie feedback loops from our listeners, an update on my projects, and a
+comprehensive examination of proactive steps users can take to enhance their online privacy.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0606/sn0606.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0606/sn0606.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0606/sn0606.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0606/sn0606.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 605: Google -vs- Symantec</title>
+<pubDate>28 Mar 2017</pubDate>
+<comments>http://twit.tv/sn/605</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Jason and I discuss Google’s Tavis Ormandy taking an inspiration shower, iOS gets a massive feature and security update, a new target for ‘Bot money harvesting appears, Microsoft suffers a rather significant user-privacy fail, the UK increases its communications decryption
+rhetoric, a worrisome vote in the US senate, NEST fails to respond to a researcher's report, this week in IoT nonsense, a fun quote of the week, a bit of miscellany, some quickie questions from our listeners, and a close look at the developing drama surrounding Google's enforcement of the Certificate Authority Baseline rules with Symantec.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0605/sn0605.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:22:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0605/sn0605.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0605/sn0605.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0605/sn0605.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 604: Taming Web Ads</title>
+<pubDate>21 Mar 2017</pubDate>
+<comments>http://twit.tv/sn/604</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Leo and I discuss developments in the New Windows on Old Hardware front, Cisco finds a surprise in the Vault 7 docs, Ubiquiti was caught with their PHPs down, Check Point discovered problems in WhatsApp and Telegram, some interesting details about the long-running Yahoo breaches, the death of the “eBay Football,” the latest amazing IoT insanity, the incredible results of the CanSecWest Pwn2Own competition, a classic “you’re doing it wrong” example, Tavis pokes LastPass again, some miscellany, and an interesting proposal about controlling web advertising abuse.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0604/sn0604.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:57:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0604/sn0604.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0604/sn0604.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0604/sn0604.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 603: Vault 7</title>
+<pubDate>14 Mar 2017</pubDate>
+<comments>http://twit.tv/sn/603</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Leo and I discuss March's long-awaited patch Tuesday, the release deployment of Google Invisible reCaptcha, getting more than you bargained for with a new Android smartphone, the new "Find my iPhone" phishing campaign, the failure of WiFi anti-tracking, a nasty and significant new hard-to-fix web server 0-day vulnerability, what if your ISP decides to unilaterally block a service you depend upon?, shining some much-needed light onto a poorly conceived end-to-end messaging application, two quick takes, a bit of errata and miscellany... and a look into what Wikileaks revealed about the CIA's data collection capabilities and practices.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0603/sn0603.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 603: Vault 7</title>
+<pubDate>14 Mar 2017</pubDate>
+<comments>http://twit.tv/sn/603</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week Leo and I discuss March's long-awaited patch Tuesday, the release deployment of Google Invisible reCaptcha, getting more than you bargained for with a new Android smartphone, the new "Find my iPhone" phishing campaign, the failure of WiFi anti-tracking, a nasty and significant new hard-to-fix web server 0-day vulnerability, what if your ISP decides to unilaterally block a service you depend upon?, shining some much-needed light onto a poorly conceived end-to-end messaging application, two quick takes, a bit of errata and miscellany... and a look into what Wikileaks revealed about the CIA's data collection capabilities and practices.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0603/sn0603.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:48:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0603/sn0603.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 601: The First SHA-1 Collision</title>
+<pubDate>28 Feb 2017</pubDate>
+<comments>http://twit.tv/sn/601</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss the “CloudBleed” incident; another project zero 90-day timer expires for Microsoft; this week's IoT head-shaker; a New York airport exposes critical server data for a year; another danger created by inline third party TLS-intercepting "middleboxes"; more judicial thrashing over fingerprint warrants; Amazon says no to Echo data warrant; a fun drone-enabled proof on concept is widely misunderstood; another example of A/V attack surface expansion; some additional Crypto education pointers and miscellany... and, finally, what does Google's deliberate creation of two SHA-1-colliding files actually mean?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0601/sn0601.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:41:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0601/sn0601.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0601/sn0601.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0601/sn0601.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 600: The MMU Side-Channel Attack</title>
+<pubDate>21 Feb 2017</pubDate>
+<comments>http://twit.tv/sn/600</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss the completely cancelled February patch Tuesday amid a flurry of serious problems; it's not only laptop webcams that we need to worry about; the perils of purchasing a previously-owned Internet connected auto; Chrome changes its UI making certificate inspection trickier; the future of Firefox Add-Ons; Win10's lock screen is leaking the system’s clipboard; a collection of new problems for Windows; a amazing free Crypto book online from Stanford and New York University; pfSense and Ubiquity follows-ups; a bit of geek humor and miscellany… And a deep dive into yet another sublime hack from our ever-clever friends, led by professor Herbert Bos at the University of Amsterdam.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0600/sn0600.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:4:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0600/sn0600.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0600/sn0600.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0600/sn0600.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 599: TLS Interception INsecurity</title>
+<pubDate>14 Feb 2017</pubDate>
+<comments>http://twit.tv/sn/599</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss the delay in this month's Patch Tuesday (we may know why!), our favorite ad-blocker embraces the last major browser, a university gets attacked by its own vending machines, PHP leaps into the future, a slick high-end Linux hack, the rise of fileless malware, some good advice for tax time, it's not only Android's pattern lock that's vulnerable to visual eavesdropping, what happens with you store a huge pile of Samsung Note 7's in one place?, some fun miscellany, a MUST NOT MISS science fiction TV series, a look at the growing worrisome security implications of uncontrolled TLS interception.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0599/sn0599.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:42:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0599/sn0599.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0599/sn0599.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0599/sn0599.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 598: Two Armed Bandits</title>
+<pubDate>07 Feb 2017</pubDate>
+<comments>http://twit.tv/sn/598</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss printers around the world getting hacked!, Vizio's TVs really were watching their watchers, Windows has a new 0-day problem, Android's easy-to-hack pattern lock, an arsonist's pacemaker rats him out, a survey finds that many iOS apps are not checking TLS certificates, the courts create continuing confusion over eMail search warrants, a blast from the past: SQL Slammer appears to return, Cellebrite's stolen cell phone cracking data begins to surface, some worrisome events in the Encrypted Web Extensions debate, Non-Windows 10 users are not alone, a couple of questions answered, my report of a terrific Sci-Fi series, a bit of other miscellany... and a fun story about one armed bandits being hacked by two armed bandits..</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0598/sn0598.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0598/sn0598.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0598/sn0598.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0598/sn0598.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 597: Traitors in our Midst</title>
+<pubDate>31 Jan 2017</pubDate>
+<comments>http://twit.tv/sn/597</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss the best “I'm not a Robot” video ever; Cisco's WebEx problem being far more pervasive than first believed; More bad news (and maybe some good news) for Netgear; Gmail adds .js to the no-no list; a hotel finally decides to abandon electronic room keying; more arguments against the use of modern AV; another clever exploitable CSS browser hack; some (hopefully final) password complexity follow-ups; a bit of errata and miscellany; a SQRL status update; a “Luke... trust the SpinRite” story; and a very nice analysis of a little-suspected threat hiding among us.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0597/sn0597.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0597/sn0597.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0597/sn0597.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0597/sn0597.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 596: Password Complexity Calculations</title>
+<pubDate>24 Jan 2017</pubDate>
+<comments>http://twit.tv/sn/596</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss how, while still on probation Symantec issues additional invalid certificates, Tavis Ormandy finds a very troubling problem in Cisco's Web conferencing extension for Chrome, yesterday's more-important-than-usual update to iOS, renewed concerns about LastPass metadata leakage, the SEC looks askance at what's left of Yahoo, a troubling browser form auto-fill information leakage, Tor further hides its hidden services, China orbits a source of entangles photons?, Heartbleed three years later, a new take on compelling fingerprints, approaching the biggest Pwn2Own ever, some miscellany... and some tricks for computing password digit and bit complexity equivalence.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0596/sn0596.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:59:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0596/sn0596.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0596/sn0596.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0596/sn0596.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 595: Whats up with WhatsApp?</title>
+<pubDate>17 Jan 2017</pubDate>
+<comments>http://twit.tv/sn/595</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss a classic bug at GoDaddy which bypassed domain validation for 8850 issued certificates; could flashing a peace sign compromise your biometric data?; it's not only new IoT devices that may tattle on you: many autos have been able to for the past 15 years; McDonalds gets caught in a web security bypass; more famous hackers have been hacked; Google uses AI to increase image resolution; more on the value or danger of password tricks; and... does WhatsApp incorporate a deliberate crypto backdoor?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0595/sn0595.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:53:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0595/sn0595.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0595/sn0595.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0595/sn0595.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 594: A look into PHP malware</title>
+<pubDate>10 Jan 2017</pubDate>
+<comments>http://twit.tv/sn/594</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss the US Federal Trade Commission's step into the IoT and home networking malpractice world, a radio station learning a lesson about what words NOT to repeat, Google's plan to even eliminate the "checkbox", a crucial caveat to the "passwords are long enough" argument, more cause to be wary of third-party software downloads, a few follow-ups to last week's topics, a bit of miscellany and a close look at the government's Russian hacking disclosure and a well-known piece of (related?) PHP malware.</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0594/sn0594.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:52:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0594/sn0594.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0594/sn0594.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0594/sn0594.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+<item>
+<title>SN 593: I'm NOT a Robot! (Really)</title>
+<pubDate>03 Jan 2017</pubDate>
+<comments>http://twit.tv/sn/593</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<category>Security</category>
+<description>This week, Leo and I discuss law enforcement and the Internet of Tattling things, a very worrisome new and widespread PHP eMail vulnerability, Paul and MaryJo score a big concession from Microsoft, a six year old "hacker" makes the news, Apple discovers how difficult it is to make developers change, hyperventilation over Russian malware found on a power utility's laptop, the required length of high entropy passwords, more pain for Netgear, an update on the just finalized v1.3 of TLS, the EFF's growing "Secure" messaging scorecard, a bunch of fun miscellany... and how does that "I'm not a Robot" non-CAPTCHA checkbox CAPTCHA work?</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp3/cdn.twit.tv/audio/sn/sn0593/sn0593.mp3</guid>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:47:00</itunes:duration>
+<link>http://cdn.twit.tv/audio/sn/sn0593/sn0593.mp3</link>
+<enclosure url="http://cdn.twit.tv/audio/sn/sn0593/sn0593.mp3" length="0" type="audio/mpeg"/>
+<media:content url="http://cdn.twit.tv/audio/sn/sn0593/sn0593.mp3" fileSize="0" type="audio/mpeg" medium="audio">
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:v-chip">tv-g</media:rating>
+</media:content>
+</item>
+
+</channel>
+</rss>
